@@ -1,0 +1,4670 @@
+
+{
+"Year": "Final Year",
+"TotalCredits": "31/33",
+"Semesters": [
+{
+"Semester": "7th",
+"Options": [
+{
+"Path": "Project",
+"Courses": [
+{
+"Code": "Elective III",
+"Name": "Elective III",
+"Type": "DE",
+"L": 3,
+"T": 0,
+"P": 0,
+"Credits": 3
+},
+{
+"Code": "Elective IV",
+"Name": "Elective IV",
+"Type": "DE",
+"L": 3,
+"T": 0,
+"P": 0,"Credits": 3
+},
+{
+"Code": "Elective V",
+"Name": "Elective V",
+"Type": "DE",
+"L": 3,
+"T": 0,
+"P": "0/2",
+"Credits": "3/4"
+},
+{
+"Code": "Elective VI",
+"Name": "Elective VI",
+"Type": "DE",
+"L": 3,
+"T": 0,
+"P": "0/2",
+"Credits": "3/4"
+},
+{
+"Code": "OPEN / MOOC course",
+"Name": "Open / MOOC course",
+"Type": "OC",
+"L": 3,
+"T": 0,"P": 0,
+"Credits": 3
+},
+{
+"Code": "ECD 403",
+"Name": "Project",
+"Type": "DE",
+"L": 0,
+"T": 0,
+"P": 16,
+"Credits": 8
+}
+],
+"Subtotal": {
+"L": "15/0",
+"T": 0,
+"P": "16(20)/16",
+"Credits": "23(25)/8"
+}
+},
+{
+"Path": "Internship",
+"Courses": [
+{
+"Code": "ECD 402",
+"Name": "Internship","Type": "DE",
+"L": 0,
+"T": 0,
+"P": 16,
+"Credits": 8
+}
+],
+"Subtotal": {
+"L": 0,
+"T": 0,
+"P": 16,
+"Credits": 8
+}
+}
+]
+},
+{
+"Semester": "8th",
+"Options": [
+{
+"Path": "Internship",
+"Courses": [
+{
+"Code": "ECD 402",
+"Name": "Internship",
+"Type": "DE","L": 0,
+"T": 0,
+"P": 16,
+"Credits": 8
+}
+],
+"Subtotal": {
+"L": 0,
+"T": 0,
+"P": 16,
+"Credits": 8
+}
+},
+{
+"Path": "Project / Internship - II",
+"Courses": [
+{
+"Code": "ECD 403/ECD 404",
+"Name": "Project / Internship - II",
+"Type": "DE",
+"L": 0,
+"T": 0,
+"P": 16,
+"Credits": 8
+},
+{"Code": "Elective III",
+"Name": "Elective III",
+"Type": "DE",
+"L": 3,
+"T": 0,
+"P": 0,
+"Credits": 3
+},
+{
+"Code": "Elective IV",
+"Name": "Elective IV",
+"Type": "DE",
+"L": 3,
+"T": 0,
+"P": 0,
+"Credits": 3
+},
+{
+"Code": "Elective V",
+"Name": "Elective V",
+"Type": "DE",
+"L": 3,
+"T": 0,
+"P": "0/2",
+"Credits": "3/4"
+},{
+"Code": "Elective VI",
+"Name": "Elective VI",
+"Type": "DE",
+"L": 3,
+"T": 0,
+"P": "0/2",
+"Credits": "3/4"
+},
+{
+"Code": "OPEN / MOOC course",
+"Name": "Open / MOOC course",
+"Type": "OC",
+"L": 3,
+"T": 0,
+"P": 0,
+"Credits": 3
+}
+],
+"Subtotal": {
+"L": "15/0",
+"T": 0,
+"P": "16(20)/16",
+"Credits": "23(25)/8"
+}
+}]
+}
+],
+"GrandTotal": "153/155",
+"SemesterCredits": {
+"1st": 23,
+"2nd": 22,
+"3rd": 22,
+"4th": 19,
+"5th": 18,
+"6th": 18,
+"7th & 8th": "31/33",
+"Total": "153/155"
+},
+"TypeCredits": {
+"BS": 16,
+"ES": 8,
+"HU": 5,
+"OC
+
+-------------------------------------------------------------
+{
+"Admission": {
+"BTech": {
+"JOSAA counselling": "https://josaa.nic.in/",
+"CSAB counselling": "https://csab.nic.in/"
+}
+},
+"Research": {
+"IIIT Nagpur": {
+"Computer Science and Engineering": [
+"Machine Learning",
+"Artificial Intelligence",
+"Big Data Analytics",
+"Natural Language Processing",
+"RTOS and Embedded Systems",
+"High Performance Computing",
+"Bio-informatics",
+"Parallel Computing",
+"Distributed Computing"
+],
+"Electronics and Communication Engineering": [
+"Communication, Wireless Sensor Network, and IoT",
+"Microwave and Antennas",
+"Signal, Image & Video Processing",
+"Process Control system",
+"Intelligent Systems"]
+}
+},
+"additional_info": "NA"
+}<|eot_id|>
+
+-------------------------------------------------------------
+{ "academic_rules_and_regulations": { "academic_year": "2024-25 onwards",
+"governing_programs": "All PhD Programs", "institute": { "name": "Indian
+Institute of Information Technology Nagpur", "abbreviation": "IIITN",
+"location": "India 441108", "established": "April 2024", "importance":
+"Institution of national importance under the IIIT PPP Act 2017", "partners": [
+"Ministry of Education Government of India", "State Governments",
+"Industry Partners eg Tata Consultancy Services Mumbai" ], "vision": "To be
+a leader in IT related science and engineering research and education" },
+"program": { "objective": "Provide research training relevant to social and
+economic objectives interdisciplinary research and innovation", "disciplines":
+["Computer Science and Engineering", "Electronics and Communication Engineering"],
+"research_areas": { "CSE": [ "Operating Systems",
+"Databases", "Networking", "Compilers", "Software
+Engineering", "Image Processing", "AI and ML", "Natural
+Language Processing", "Big Data" ], "ECE": [ "VLSI
+Design", "Embedded Systems", "Cognitive Radio",
+"Optoelectronics", "Mechatronics", "Robotics" ] },
+"admission_categories": { "industry_candidates": {
+"extern_candidate": { "category": "EXI", "description": "Self
+financed and employed by recognized organizations", "eligibility": "BTech BE
+or MTech MS ME with 1 year experience", "requirements": ["No Objection
+Certificate NOC from employer"] }, "intern_sponsored_candidate": {
+"category": "INIS", "description": "Sponsored by an employer for
+research at IIITN", "eligibility": "BTech BE or MTech MS ME with 3 years
+experience", "requirements": ["Financial assistance certificate from
+sponsor"] } }, "academic_institution_candidates": {"extern_self_financed": { "category": "EXA", "description":
+"Self financed and employed in academic institutions", "eligibility": "MTech
+MS ME qualification", "requirements": ["No Objection Certificate NOC from
+employer"] }, "intern_sponsored": { "category": "INAS",
+"description": "Sponsored by academic institutions for research at IIITN",
+"eligibility": "MTech MS ME qualification", "requirements":
+["Financial assistance certificate from sponsor"] },
+"extern_sponsored": { "category": "EXAS", "description":
+"Sponsored by academic institutions for research at IIITN", "eligibility":
+"MTech MS ME qualification", "requirements": ["Financial assistance
+certificate from sponsor"] } }, "other_candidates": {
+"intern_self_sponsored": { "category": "INU", "description":
+"Self financed and unemployed candidates", "eligibility": "MTech MS ME
+qualification" }, "intern_externally_funded": {
+"category": "INES", "description": "Candidates with external funding or
+project staff", "eligibility": "MTech MS ME qualification",
+"stipend": "From respective research grants or fellowships" },
+"intern_self_sponsored_project_staff": { "category": "INPS",
+"description": "Self sponsored project staff SRF JRF", "eligibility": "MTech
+MS ME qualification", "stipend": "Under respective research grants"
+} } }, "minimum_duration": { "master_degree_candidates": "3
+academic years", "bachelor_degree_candidates": "4 academic years" },
+"eligibility_requirements": [ "First class or 60 percent marks 55 percent for SC
+ST PwD", "Minimum CPI CGPA 675 6 for SC ST PwD on a 10 point scale",
+"Relevant work experience if applicable", "Valid GATE score desirable" ],
+"selection_process": { "stage_1": { "description": "Writtentest", "qualifying_score": "Minimum 40 percent normalized based on the highest
+score" }, "stage_2": { "description": "Personal interview",
+"criteria": "Qualifying candidates from the written test" },
+"stage_3": { "description": "Combined score", "calculation": "Score
+from written test and interview" } } }, "contact": {
+"website": "www.iiitn.ac.in", "email": ["director@iiitn.ac.in",
+"registrar@iiitn.ac.in"] } }, "VALIDITY_OF_REGISTRATION": { "MTech": 6,
+"BTech": 7, "Re-registration": "Required if period exceeds 6 7 years",
+"Deadline": "Apply before completion of 6 7 years", "Failure": "Requires fresh
+
+-------------------------------------------------------------
+{
+"schedule": {
+"room": "CR-306",
+"monday": [
+{
+"time": "10:00-10:55 AM",
+"subject": "CC",
+"course": "CSE-A-V"
+},
+{
+"time": "11:00-11:55 AM",
+"subject": "CN",
+"course": "CSE-A-V"
+},
+{
+"time": "12:00-12:55 PM",
+"subject": "TOC",
+"course": "CSE-A-V"
+},
+{
+"time": "1:00-1:55 PM",
+"subject": "TOC",
+"course": "CSE-B-V"
+},
+{
+"time": "3:00-3:55 PM","subject": "DBMS",
+"course": "CSE-B-V"
+},
+{
+"time": "4:00-4:55 PM",
+"subject": "CN",
+"course": "CSE-B-V"
+},
+{
+"time": "5:00-5:55 PM",
+"subject": "TOC Tut",
+"course": "CSE-B-V"
+}
+],
+"tuesday": [
+{
+"time": "10:00-10:55 AM",
+"subject": "IE",
+"course": "CSE-AIML-III"
+},
+{
+"time": "11:00-11:55 AM",
+"subject": "IE",
+"course": "CSE-AIML-III"
+},
+{"time": "12:00-12:55 PM",
+"subject": "TOC Tut",
+"course": "CSE-A-V"
+},
+{
+"time": "1:00-1:55 PM",
+"subject": "TOC Tut",
+"course": "CSE-B-V"
+},
+{
+"time": "3:00-3:55 PM",
+"subject": "CC",
+"course": "CSE-B-V"
+}
+],
+"wednesday": [
+{
+"time": "9:00-9:55 AM",
+"subject": "CC",
+"course": "CSE-A-V"
+},
+{
+"time": "10:00-10:55 AM",
+"subject": "CN",
+"course": "CSE-A-V"
+},{
+"time": "11:00-11:55 AM",
+"subject": "TOC",
+"course": "CSE-A-V"
+},
+{
+"time": "12:00-12:55 PM",
+"subject": "DBMS",
+"course": "CSE-A-V"
+},
+{
+"time": "1:00-1:55 PM",
+"subject": "DBMS",
+"course": "CSE-B-V"
+},
+{
+"time": "2:00-2:55 PM",
+"subject": "CN",
+"course": "CSE-B-V"
+},
+{
+"time": "3:00-3:55 PM",
+"subject": "TOC",
+"course": "CSE-B-V"
+}
+],"thursday": [
+{
+"time": "11:00-11:55 AM",
+"subject": "DBMS",
+"course": "CSE-A-V"
+},
+{
+"time": "12:00-12:55 PM",
+"subject": "CN",
+"course": "CSE-A-V"
+},
+{
+"time": "1:00-1:55 PM",
+"subject": "CC",
+"course": "CSE-B-V"
+},
+{
+"time": "2:00-2:55 PM",
+"subject": "CN",
+"course": "CSE-B-V"
+},
+{
+"time": "4:00-4:55 PM",
+"subject": "DBMS",
+"course": "CSE-B-V"
+}],
+"friday": [
+{
+"time": "9:00-9:55 AM",
+"subject": "CC",
+"course": "CSE-A-V"
+},
+{
+"time": "10:00-10:55 AM",
+"subject": "TOC",
+"course": "CSE-A-V"
+},
+{
+"time": "11:00-11:55 AM",
+"subject": "TOC Tut",
+"course": "CSE-A-V"
+},
+{
+"time": "12:00-12:55 PM",
+"subject": "DBMS",
+"course": "CSE-A-V"
+},
+{
+"time": "1:00-1:55 PM",
+"subject": "DBMS",
+"course": "CSE-B-V"},
+{
+"time": "4:00-4:55 PM",
+"subject": "CC",
+"course": "CSE-B-V"
+}
+]
+}
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Dr. Kirti Dorshetwar",
+"department": "Basic Science",
+"position": "Assistant Professor",
+"phone_no": "9823190654",
+"email": "kdorshetwar@iiitn.ac.in",
+"joining_date": "2018-06-25",
+"education": [
+{
+"degree_year": "1997",
+"college_name": "Date College",
+"university": "Amravati University"
+},
+{
+"degree_year": "2000",
+"college_name": "V.M.V. College",
+"university": "Amravati University"
+},
+{
+"degree_year": "2013",
+"college_name": "RTMNU",
+"university": "RTMNU"
+},
+{
+"degree_year": "2008",
+"college_name": "YCMOU","university": "YCMOU"
+}
+],
+"teaching_experience": [
+{
+"institution": "Indian Institute of Information Technology Nagpur",
+"position": "Assistant Professor",
+"start_date": "2018-06-26",
+"end_date": "2024-10-14"
+}
+],
+"industrial_experience": [
+{
+"institution": "All India Radio, Nagpur",
+"position": "Other",
+"start_date": "1999-10-30",
+"end_date": "2024-10-14"
+}
+],
+"laboratory_development": [
+{
+"lab_name": "Language Lab",
+"position": "Assistant Professor",
+"institution": "Indian Institute of Information Technology, Nagpur",
+"software_used": "Orel Software"
+}],
+"areas_of_interest": [
+"English Literature",
+"Modern Literature",
+"Communication Skills and Personality Development",
+"History",
+"English for Competitive Exams",
+"Study of Modern Literature",
+"Contemporary Literature",
+"Socio-cultural Aspect of Literature",
+"Historical Development in the context of Technology"
+],
+"projects": [
+{
+"title": "Unplugging the Future: A Comprehensive Analysis of Mobile Phone
+Addiction and Its Far-Reaching Impacts on the Mental Health of Today's Youth",
+"funding_agency": "ICSSR",
+"role": "Principal investigators",
+"start_date": "05-08-2024",
+"end_date": "14-10-2024",
+"funding_amount": "20000000"
+}
+],
+"publications": {
+"0": "NA"
+},"supervision": {
+"pg_dissertation": "NA",
+"ug_dissertation": "NA",
+"phd_dissertation": "NA",
+"mtech_dissertation": "NA"
+},
+"fellowships": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"Hostel Warden (Boys)": {
+"name": "Dr. Harsh Goud",
+"title": "Assistant Professor",
+"phone_number": "+919827554326",
+"email": "hgoud@iiitn.ac.in",
+"institute": "Indian Institute of Information Technology, Nagpur"
+},
+"Hostel Warden (Girls)": {
+"name": "Dr. Shushmita Dadhaliya",
+"title": "Assistant Professor",
+"phone_number": "+919082333050",
+"email": "sdandeliya@iiitn.ac.in",
+"institute": "Indian Institute of Information Technology, Nagpur"
+}
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"Training_and_Placement_Centre": {
+"About": "IIIT Nagpur has a dedicated Training and Placement Department with a full
+time Training and Placement Officer. Training & Placement Department plays a major role
+in shaping up the career goals of students. It is a dream of every engineering student
+to get placed in a top organization visiting their campus for recruitment.",
+"Services": [
+"Internship placements",
+"Permanent placements",
+"Mock interviews",
+"Group discussions",
+"Competitive coding",
+"Technical interview practices",
+"Resume polishing",
+"Higher education guidance",
+"Workshops and sessions"
+],
+"Key_Stats": {
+"2020_placement_data": {
+"Highest_CTC": "20 LPA",
+"Average_CTC": "7.7 LPA",
+"Number_of_companies_visited": "60"
+},
+"Latest_placement_data": {
+"Highest_CTC": "90 LPA",
+"Average_CTC": "14 LPA","Number_of_companies_visited": "168"
+}
+}
+},
+"Students_Placed_Internationally_2024": [
+{
+"Roll_Number": "BT20CSE040",
+"Name": "Harsh Tripathi",
+"Branch": "CSE",
+"Company": "SMS Data Tech, Japan"
+},
+{
+"Roll_Number": "BT20CSE115",
+"Name": "Harsh Upadhayay",
+"Branch": "CSE",
+"Company": "SMS Data Tech, Japan"
+},
+{
+"Roll_Number": "BT20CSE138",
+"Name": "Niraj Matere",
+"Branch": "CSE",
+"Company": "SMS Data Tech, Japan"
+},
+{
+"Roll_Number": "BT20CSE188",
+"Name": "Aman Deep Singh","Branch": "CSE",
+"Company": "SMS Data Tech, Japan"
+}
+],
+"Placements_BTech_Batch_2023": {
+"Highest_Package": "90 LPA",
+"Average_Package": "14 LPA",
+"Branch_wise_placements": {
+"CSE": {
+"Average_Package": "13.89 LPA",
+"Median_Package": "12 LPA"
+},
+"ECE": {
+"Average_Package": "14.87 LPA",
+"Median_Package": "11 LPA"
+}
+}
+},
+"Placement_Statistics_Batch_2022": {
+"Highest_Package": "40 LPA",
+"Average_Package": "12.04 LPA"
+},
+"Placements_BTech_Batch_2021": {
+"Highest_Package": "46.75 LPA",
+"Average_Package": "8.44 LPA"
+},"Latest_Placements": [
+{
+"Headline": "One of our Students from Batch 2020 bagged 25 Lakhs/Year Job Offer",
+"Details": "The Director, I/c Dean, Registrar, and all faculties congratulate them
+for his achievement and wish all the best for future endeavors."
+},
+{
+"Headline": "Ankit Barai, Piyush Moolchandani, Ayush Raghuwanshi, Anikesh Pal on
+getting a Placement Offer from Jio for CTC 15 Lakhs/Year",
+"Details": "The Director, I/c Dean, Registrar, and all faculties congratulate all
+students for their achievement and wish all the best for future endeavors."
+},
+{
+"Headline": "Pranay Fating, Sanchi Bhaware, Renuka Vijay Soman, Rajita Rajesh
+Sharma, Susatya Sinha, Garima Kumar, Prajwal Arun Nakhate and Harshal Ravikumar
+Khandaitongetting Placement Offer as a Senior Analyst from Capgemini, India",
+"Details": "The offer includes a package of 6.8 Lakhs/Year.\nThe Director, I/c
+Dean, Registrar, and all faculties congratulate all students for their achievement and
+wish all the best for future endeavors."
+},
+{
+"Headline": "Mr Ankit Barai (Final Year CSE Student) on getting an Internship
+Offer as a Software Developer from Amazon, India",
+"Details": "The Director, I/c Dean, Registrar, and all faculties congratulate Mr
+Ankit Barai for their achievement and wish all the best for future endeavors."
+},{
+"Headline": "Mr Sudhir Pal and Ramdev Godara (Final Year CSE Student) on getting a
+Placement Offer as a Software Developer Engineer from 1mg, India",
+"Details": "The offer includes a package of 12 Lakhs/Year.\nThe Director, I/c
+Dean, Registrar, and all faculties congratulate Mr Sudhir Pal and Ramdev Godara for
+their achievement and wish all the best for future endeavors."
+},
+{
+"Headline": "Mr Gaurav Agarwal (Final Year CSE Student
+
+-------------------------------------------------------------
+{
+"elective_courses": {
+"CSE": [
+{
+"course_code": "CSL420",
+"course_name": "Soft Computing",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL421",
+"course_name": "Artificial Intelligence",
+"L": 3,
+"T": 0,
+"P": 2,
+"credits": 4
+},
+{
+"course_code": "CSL422",
+"course_name": "Machine Learning",
+"L": 3,
+"T": 0,
+"P": 2,
+"credits": 4},
+{
+"course_code": "CSL423",
+"course_name": "Distributed Computing Systems",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL424",
+"course_name": "Real Time Systems",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL425",
+"course_name": "Mobile Computing",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{"course_code": "CSL426",
+"course_name": "Cloud Computing",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL427",
+"course_name": "Software Architecture",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL428",
+"course_name": "Software Project Management",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL429",
+"course_name": "Software Testing and Evaluation","L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL430",
+"course_name": "Advanced Computer Architecture",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL431",
+"course_name": "Computer Graphics",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL432",
+"course_name": "Human Computer Interaction",
+"L": 3,
+"T": 0,"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL433",
+"course_name": "Natural Language Processing",
+"L": 3,
+"T": 0,
+"P": 2,
+"credits": 4
+},
+{
+"course_code": "CSL435",
+"course_name": "Introduction to Parallel Computing",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL436",
+"course_name": "Data Mining and Warehousing",
+"L": 3,
+"T": 0,
+"P": 2,
+"credits": 4},
+{
+"course_code": "CSL437",
+"course_name": "Bioinformatics",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL438",
+"course_name": "Information Retrieval",
+"L": 3,
+"T": 0,
+"P": 2,
+"credits": 4
+},
+{
+"course_code": "CSL439",
+"course_name": "Business Intelligence",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{"course_code": "CSL440",
+"course_name": "Advanced Compilers",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "CSL441",
+"course_name": "Paradigms in Programming Languages",
+"L": 3,
+"T": 0,
+"P": 2,
+"credits": 4
+},
+{
+"course_code": "CSL444",
+"course_name": "Big Data Analytics",
+"L": 3,
+"T": 0,
+"P": 2,
+"credits": 4
+},
+{
+"course_code": "CSL445",
+"course_name": "Data Sciences","L": 3,
+"T": 0,
+"P": 2,
+"credits": 4
+},
+{
+"course_code": "CSL446",
+"course_name": "Neural Networks and Deep Learning",
+"L": 3,
+"T": 0,
+"P": 0,
+"credits": 3
+},
+{
+"course_code": "
+
+-------------------------------------------------------------
+{
+"name": "Dr  Sushmita Dandeliya",
+"department": "Electronics Communication Engineering",
+"position": "Assistant Professor",
+"phone no": "+919082333050",
+"email": "sdandeliya@iiitn ac in",
+"joining date": "July 2022",
+"education": [
+{
+"degree": "Phd",
+"degree year": "2019",
+"college name": "ABV-IIITM",
+"university": "Gwalior"
+},
+{
+"degree": "M Tech",
+"degree year": "2012",
+"college name": "NIT",
+"university": "Calicut"
+},
+{
+"degree": "B E ",
+"degree year": "2010",
+"college name": "MITS",
+"university": "Gwalior"
+}],
+"teaching experience": [
+{
+"institution": "IIIT Nagpur",
+"position": "Assistant Professor",
+"start date": "July 2022",
+"end date": "Till Date"
+},
+{
+"institution": "NIT Calicut",
+"position": "Adhoc Faculty",
+"start date": "August 2021",
+"end date": "May 2022"
+},
+{
+"institution": "ABV-IIITM Gwalior",
+"position": "Teaching Assistant",
+"start date": "August 2014",
+"end date": "April 2019"
+},
+{
+"institution": "ITM University, Gwalior",
+"position": "Assistant Professor",
+"start date": "July 2012",
+"end date": "June 2014"
+},{
+"institution": "NIT Calicut",
+"position": "Teaching Assistant",
+"start date": "July 2010",
+"end date": "May 2012"
+}
+],
+"industrial experience": [],
+"laboratory development": [],
+"areas of interest": [
+"Nanoelectronics",
+"Device Modelling",
+"CNT and Graphene based Devices",
+"1D/2D nanomaterials based devices",
+"Energy and sensing applications",
+"VLSI Design",
+"Embedded System Design"
+],
+"projects": [],
+"publications": {
+"0": "Dandeliya, S, & Anurag, S  (2019)  Defected graphene as ammonia sensor:
+Theoretical insight  IEEE Sensors Journal, IEEE, 19(6), 2031\u20132038,
+SCI(IF\u20133 301), Citations=(11) ",
+"1": "Electron transport in ammonia adsorbed functionalized carbon nanotube 
+Journal of Nanoelectronics and Optoelectronics, American Scientific Publishers, 13(3),
+306\u2013313, SCIE(IF\u20131 069), Citations=(2) ","2": "Magnetism in zigzag and armchair cuo nanotubes: Ab-initio study  Journal
+of Magnetism and Magnetic Materials, Elsevier, 406, 8\u201314, SCI(IF\u20132 993),
+Citations=(13) ",
+"3": "Zhu, J, Childress, A  S, Karakaya, M, Dandeliya, S, Srivastava, A,
+Lin, Y,       Podila, R  (2016)  Defect engineered graphene for high energy and high
+power density supercapacitor devices  Advanced Materials, Wiley Online Library, 28(33),
+7185\u20137192, SCI(IF\u201330 849), Citations=(197) ",
+"4": "Structural and electronic properties of mn decorated bn nanotube  Advanced
+Science Letters, American Scientific Publishers, 21(9), (2845\u20132849) "
+},
+"supervision": [],
+"fellowships": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Dr  Parul Sahare",
+"department": "Electronics Communication Engineering (ECE)",
+"position": "Assistant Professor",
+"phone no": "8055156130",
+"email": "parulsahare@iiitn ac in",
+"joining date": "December 2020",
+"education": [
+{
+"degree": "Ph D ",
+"degree year": "2019",
+"college name": "VNIT",
+"university": "Nagpur"
+},
+{
+"degree": "M  Tech ",
+"degree year": "2010",
+"college name": "VNIT",
+"university": "Nagpur"
+},
+{
+"degree": "B E ",
+"degree year": "2008",
+"college name": "Rewa Engineering College",
+"university": "Rewa, Madhya Pradesh"
+}],
+"teaching experience": [
+{
+"institution": "IIIT Nagpur",
+"position": "Assistant Professor",
+"start date": "December 2020",
+"end date": "Present"
+},
+{
+"institution": "IIIT Pune",
+"position": "Assistant Professor",
+"start date": "July 2018",
+"end date": "December 2020"
+},
+{
+"institution": "RCOEM",
+"position": "Assistant Professor",
+"start date": "July 2013",
+"end date": "January 2014"
+},
+{
+"institution": "JIT",
+"position": "Assistant Professor",
+"start date": "June 2011",
+"end date": "April 2013"
+}],
+"industrial experience": [],
+"laboratory development": [],
+"areas of interest": [
+"Signal Processing",
+"Image Processing",
+"Pattern Recognition",
+"Document Image Analysis",
+"Machine Learning"
+],
+"projects": [],
+"publications": {
+"0": "Parul Sahare and Sanjay B  Dhok, \u201cScript pattern identification of
+word images using multi-directional and multi-scalable textures\u201d, Journal of
+Ambient Intelligence and Humanized Computing  Accepted for publication  DOI:
+https://doi org/10 1007/s12652-020-02718-0  [SCIE Index]",
+"1": "Prachin Bhoyar, Parul Sahare, S B  Dhok, R B  Deshmukh,
+\u201cCommunication Technologies and Security Challenges for Internet of Things: A
+Comprehensive Review\u201d, AEU-International Journal of Electronics and Communications,
+Vol  99, pp  81-99, Feb  2019  DOI: https://doi org/10 1016/j aeue 2018 11 031  [SCI
+Index]",
+"2": "Parul Sahare and Sanjay B  Dhok, \u201cSeparation of Handwritten and
+Machine-Printed Texts from Noisy Documents using Contourlet Transform\u201d, Arabian
+Journal for Science and Engineering, Vol  43, No  12, pp  8159-8177, Dec  2018  DOI:
+https://doi org/10 1007/s13369-018-3365-1  [SCIE Index]",
+"3": "Parul Sahare and Sanjay B  Dhok, \u201cSeparation of Machine-Printed andHandwritten Texts in Noisy Documents using Wavelet Transform\u201d, IETE Technical
+Review, Vol  36, No  4, pp  341-361, Jun  2018  DOI: 10 1080/02564602 2018 1475266 
+[SCIE Index]",
+"4": "Parul Sahare and Sanjay B  Dhok, \u201cRobust Character Segmentation and
+Recognition Schemes for Multilingual Indian Document Images\u201d, IETE Technical
+Review, Vol  36, No  2, pp  209-222, Apr  2018  DOI: 10 1080/02564602 2018 1450649 
+[SCIE Index]",
+"5": "Parul Sahare, Ravindra E  Chaudhari and Sanjay B  Dhok, \u201cWord level
+multi-script identification using curvelet transform in log-polar domain\u201d, IETE
+Journal of Research, Vol  65, No  3, pp  410-432, Mar  2018  DOI:
+10 1080/03772063 2018 1430516  [SCIE Index]",
+"6": "Parul Sahare and Sanjay B  Dhok, \u201cMultilingual character segmentation
+and recognition schemes for Indian document images\u201
+
+-------------------------------------------------------------
+{
+"title": "Anti-Ragging Notice",
+"description": "This document outlines the policies and strict prohibitions against
+ragging within the institution. The notice emphasizes the institution's commitment to
+ensuring a safe and respectful environment for all students, free from any form of
+ragging or harassment.",
+"sections": [
+{
+"section_title": "Institutional Policy",
+"content": "The institution strictly prohibits any form of ragging. Students found
+involved in any ragging activities will face disciplinary actions as per the
+regulations. All members of the campus community are expected to uphold the values of
+respect and integrity."
+},
+{
+"section_title": "Legal Implications",
+"content": "Ragging is a punishable offense under the law, and students involved
+may face legal consequences alongside institutional penalties. The institution
+cooperates with law enforcement authorities in cases of reported ragging."
+},
+{
+"section_title": "Student Responsibilities",
+"content": "Students are encouraged to report any instances of ragging to the
+administration. The identity of complainants will be kept confidential to ensure their
+safety and peace of mind. Participation in any form of ragging or failure to report such
+activities can result in disciplinary action."},
+{
+"section_title": "Support and Resources",
+"content": "The institution provides counseling and support resources for students
+who may have been affected by ragging. Contact information for the student welfare
+office and anti-ragging helplines are available to assist students in need."
+},
+{
+"section_title": "Contact Information",
+"content": "For reporting any incidents of ragging or seeking support, students
+can contact the Anti-Ragging Committee at the institution via the provided helpline or
+email address."
+}
+],
+"contact_information": {
+"antiragging_helpline_email": "helpline@antiragging.in",
+"antiragging_helpline_number": "1800-180-5522"
+},
+"additional_info": "24x7 Toll Free Number."
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Mr. Pravin Satyavan Bhagat",
+"department": "Computer Science and Engineering",
+"position": "Assistant Professor",
+"phone_no": "7588891165",
+"email": "pbhagat@iiitn.ac.in",
+"joining_date": "2024-11-20",
+"education": [
+{
+"degree_year": "2015",
+"college_name": "PRMIT&R Amravati",
+"university": "SGBAU Amravati"
+},
+{
+"degree_year": "2020",
+"college_name": "Indian Institute of Information Technology Allahabad",
+"university": "Indian Institute of Information Technology Allahabad"
+},
+{
+"degree_year": "2022",
+"college_name": "Indian Institute of Information Technology Nagpur",
+"university": "Pursuing"
+}
+],
+"teaching_experience": [
+{"institution": "JDIET Yavatmal",
+"position": "Assistant Professor",
+"start_date": "2022-07-11",
+"end_date": "2024-06-30"
+}
+],
+"industrial_experience": [],
+"laboratory_development": [],
+"areas_of_interest": [
+"AI",
+"Generative AI",
+"Blockchain",
+"Cyber Security",
+"TOC",
+"Compile Design",
+"Operating System",
+"DBMS",
+"DAA",
+"Cryptograpy",
+"Network Security",
+"Blockchain",
+"Computer Forensics"
+],
+"projects": [],
+"publications": {
+"0": "\u201cReal Time Automated Attendance Tracking System\u201d IJCRT Issue 4April 2023 Non SCI",
+"1": "\u201cMovie Character Recognition from Video and Images using AI \u201d
+International Journal of Advanced Research in Science, Communication and Technology
+Issue 1, April 2024Non SCI",
+"2": "\u201cCardiac Health Monitoring with Machine Learning : ECG-Based
+Detection \u201d International Journal of Advanced Research in Science, Communication
+and Technology Issue 4, April 2024Non SCI",
+"3": "\u201cDecentralized Democracy : Empowering Small-Scale Communities with
+Blockchain Voting System \u201d International Journal of Advanced Research in Science,
+Communication and Technology Issue 6, April 2023Non SCI"
+},
+"supervision": {
+"pg_dissertation": "NA",
+"ug_dissertation": "NA",
+"phd_dissertation": "NA",
+"mtech_dissertation": "NA"
+},
+"fellowships": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"contracts": [
+{
+"Sr": 1,
+"Title": "Providing Housekeeping Services at IIIT, Nagpur",
+"Ref.No.": "GEM/2024/B/5541856",
+"Publish Date": "25/10/2024",
+"Type": "Current Tender",
+"Last Submission Date": "14/11/2024",
+"Corrigendum": "No",
+"Status": "Activate"
+},
+{
+"Sr": 2,
+"Title": "Comprehensive Maintenance Contract of KONE Make Lifts for Two Years at
+IIIT, Nagpur",
+"Ref.No.": "GEM/2024/B/5495295",
+"Publish Date": "11/10/2024",
+"Type": "Current Tender",
+"Last Submission Date": "13/11/2024",
+"Corrigendum": "Yes",
+"Status": "Activate"
+},
+{
+"Sr": 3,
+"Title": "Quotation For Supply of Electrical Accessories at IIIT NAGPUR","Ref.No.": "IIITN/ADMIN/QUOT/2024-25/10",
+"Publish Date": "30/09/2024",
+"Type": "Archived Tender",
+"Last Submission Date": "08/10/2024",
+"Corrigendum": "No",
+"Status": "Deactivate"
+},
+{
+"Sr": 4,
+"Title": "Quotation For Annual Maintenance Contract of Sewage Treatment Plant- 220
+KLD at IIIT NAGPUR",
+"Ref.No.": "IIITN/ADMIN/QUOT/AMC- STP/2024-25/09",
+"Publish Date": "30/09/2024",
+"Type": "Archived Tender",
+"Last Submission Date": "10/10/2024",
+"Corrigendum": "No",
+"Status": "Deactivate"
+},
+{
+"Sr": 5,
+"Title": "Supply, Configuration, Installation, Testing and Commissioning of
+Network Equipment's with 5-year Comprehensive Warranty",
+"Ref.No.": "GEM/2024/B/5300291",
+"Publish Date": "25/09/2024",
+"Type": "Archived Tender",
+"Last Submission Date": "26/09/2024","Corrigendum": "Yes",
+"Status": "Deactivate"
+},
+{
+"Sr": 6,
+"Title": "Hiring of temporary Covered Cloth Pandal with Dias, Seating
+Arrangements, Air Conditioners, Stage, LED Screen, Surveillance Camera and PA System etc
+for the 4th Convocation of the Institute",
+"Ref.No.": "IIITN/ADMIN/CON-4/2024-25/03",
+"Publish Date": "21/09/2024",
+"Type": "Archived Tender",
+"Last Submission Date": "07/10/2024",
+"Corrigendum": "No",
+"Status": "Deactivate"
+},
+{
+"Sr": 7,
+"Title": "Quotation for the Supply Library Books at IIIT Nagpur",
+"Ref.No.": "IIITN/ADMIN/BOOKS/QUOT/2024-25/ 08",
+"Publish Date": "20/09/2024",
+"Type": "Archived Tender",
+"Last Submission Date": "27/09/2024",
+"Corrigendum": "Yes",
+"Status": "Deactivate"
+},
+{"Sr": 8,
+"Title": "Quotation For the Supply Library Books At IIIT Nagpur",
+"Ref.No.": "IIITN ADMIN BOOKS QUOT 2024 25 08",
+"Publish Date": "11/09/2024",
+"Type": "Archived Tender",
+"Last Submission Date": "27/09/2024",
+"Corrigendum": "No",
+"Status": "Deactivate"
+},
+{
+"Sr": 9,
+"Title": "Supply, Configuration, Installation, Testing and Commissioning of
+Network Equipment's with 5-year Comprehensive Warranty",
+"Ref.No.": "GEM/2024/B/5300291",
+"Publish Date": "04/09/2024",
+"Type": "Archived Tender",
+"Last Submission Date": "25/09/2024",
+"Corrigendum": "No",
+"Status": "Deactivate"
+},
+{
+"Sr": 10,
+"Title": "Quotation for providing and Laying Interlocking Concrete Paver Blocks
+and Chequered Precast Cement Concrete Tiles",
+"Ref.No.": "IIITNADMINPBQUOT20",
+"Publish Date": "04/09/2024","Type": "Archived Tender",
+"Last Submission Date": "13/09/2024",
+"Corrigendum":
+
+-------------------------------------------------------------
+{
+"PhD_Program": {
+"Categories": {
+"Industry_Candidates": [
+{
+"Type": "Extern",
+"Code": "EX-I",
+"Description": "Extern Candidate from Industry"
+},
+{
+"Type": "Intern",
+"Code": "IN-IS",
+"Description": "Intern Sponsored Candidate from Industry"
+}
+],
+"Academic_Institution_Candidates": [
+{
+"Type": "Extern",
+"Code": "EX-A",
+"Description": "Self-financed Candidate from Academic Institutions"
+},
+{
+"Type": "Intern",
+"Code": "IN-AS",
+"Description": "Intern Sponsored Candidate from Academic Institutions"
+}],
+"Other_Candidates": [
+{
+"Type": "Intern",
+"Code": "IN-U",
+"Description": "Intern Self-Sponsored Candidate"
+},
+{
+"Type": "Intern",
+"Code": "IN-ES",
+"Description": "Intern externally funded or Project Staff Candidate"
+}
+]
+},
+"Regulations": "The Ph.D. program operates under the Academic Regulations of the
+Institute. Refer to the PhD Rule Book for academic regulations and details.",
+"Admission_Modality": {
+"Description": "Focuses on IT Industry problems, fostering Industry-Academia
+Collaboration.",
+"Research_Areas": "Candidates typically pass a qualifying exam followed by an
+interview.",
+"Entrance_Examination": "Tests fundamental knowledge and application skills,
+equivalent to comprehensive course exams."
+},
+"Application_Procedure": {
+"Mode": "Online application required along with submission of a hard copy to theInstitute.",
+"Requirements": "Gmail account required for online form access. Hard copy and all
+relevant documents are mandatory.",
+"Rejection_Criteria": "Applications not in prescribed form, lacking enclosures,
+received late, or without fees will be rejected. No interim correspondence
+entertained.",
+"Postal_Delay": "Institute not responsible for postal delays or loss."
+},
+"Examination_Pattern": {
+"Entrance_Test": {
+"Sections": [
+{
+"Section": 1,
+"Content": "General Ability and Communication Skills",
+"Common_For": "All Categories"
+},
+{
+"Section": 2,
+"Syllabus": {
+"Industry_Candidates": {
+"Categories": [
+"EX-I",
+"IN-IS"
+],
+"Content": [
+"Basic Engineering Maths","Basic Programming and Engineering Knowledge",
+"Engineering Logical Analysis",
+"Arithmetic",
+"Industry Standards"
+]
+},
+"Remaining_Candidates": {
+"Categories": [
+"EX-A",
+"IN-AS",
+"IN-U",
+"IN-ES"
+],
+"Streams": {
+"Electronics_and_Communication_Engineering": [
+"Engineering Mathematics",
+"Networks",
+"Signals and Systems",
+"Electronic Devices",
+"Analog Circuits",
+"Digital Circuits",
+"Control Systems",
+"Communications",
+"Electromagnetic"
+],
+"Computer_Science_and_Engineering_Information_Technology": ["Engineering Mathematics",
+"Digital Logic",
+"Computer Organization and Architecture",
+"Programming and Data Structures",
+"Algorithms",
+"Theory of Computation",
+"Compiler Design",
+"Operating System",
+"Databases",
+"Computer Networks"
+]
+}
+}
+}
+}
+]
+},
+"SoP_Presentation": {
+"Requirements": [
+{
+"Requirement": "Attach SoP in the specified format (Annexure-2) to both soft
+and hard copies of the application."
+},
+{
+"Requirement": "Industry Candidates (EX-I/IN-IS) must prepare a 5-slide
+presentation on intended research problems for the interview."}
+]
+}
+},
+"Selection_Process": {
+"Stages": [
+{
+"Stage": 1,
+"Name": "Entrance Test",
+"Description": "Eligible candidates appear physically for the Entrance Test at
+the Institute's Permanent Campus.",
+"Qualifying_Score": "Normalized minimum score of 40% (based on top score
+normalization)."
+},
+{
+"Stage": 2,
+"Name": "Interview",
+"Description": "Candidates qualifying the Entrance Test attend an offline
+personal interview."
+},
+{
+"Stage": 3,
+"Name": "Combined Score Calculation",
+"Description": "Final selection based on scores from Entrance Test, Interview,
+and GATE qualification."
+}],
+"Weightage_Distribution": {
+"EX-I_IN-IS": {
+"Total_Marks": 100,
+"Entrance_Test": 40,
+"Interview": 50,
+"GATE_Qualification": 10
+},
+"EX-A_IN-AS_IN-U_IN-ES": {
+"Total_Marks": 100,
+"Entrance_Test": 40,
+"Interview": 50,
+"GATE_Qualification": 10
+}
+}
+},
+"PhD_Duration": {
+"Default": "3 years from the date of joining until thesis submission for EX-A,
+IN-AS, IN-U, IN-ES categories.",
+"Industry_Candidates": {
+"With
+
+-------------------------------------------------------------
+{
+"name": "Dr Mangesh Ramaji Kose",
+"department": "Computer Science and Engineering",
+"position": "Assistant Professor",
+"phone_no": "7224931314",
+"email": "mkose@iiitn.ac.in",
+"joining_date": "2024-11-11",
+"education": [
+{
+"degree_year": "2015",
+"college_name": "Prof. Ram Meghe Institute of Technology and Research",
+"university": "SGBAU Amravati"
+},
+{
+"degree_year": "2017",
+"college_name": "National Institute of Technology Raipur",
+"university": "National Institute of Technology Raipur"
+},
+{
+"degree_year": "2023",
+"college_name": "National Institute of Technology Raipur",
+"university": "National Institute of Technology Raipur"
+}
+],
+"teaching_experience": [
+{"institution": "Maulana Azad National Institute of Technology Bhopal",
+"position": "Assistant Professor",
+"start_date": "2023-07-24",
+"end_date": "2024-11-11"
+}
+],
+"industrial_experience": [
+{
+"institution": "National Institute of Technology Raipur",
+"position": "Laboratory Development",
+"start_date": "25-09-2017",
+"end_date": "22-08-2018"
+}
+],
+"laboratory_development": [],
+"areas_of_interest": [
+"Subject Of Interests",
+"Health and Technology",
+"Emotions recognition",
+"EEG based variable node functional network comparison for multiclass brain
+disease detection using stacked ensemble model",
+"EEG based variable node functional network comparison for multiclass brain
+disease detection using stacked ensemble model",
+"Principal and independent component-based analysis to enhance adaptive noise
+canceller for electrocardiogram signals",
+"Dynamic characterization of functional brain connectivity network for mentalworkload condition using an effective network identifier",
+"A divide and conquer approach for in-depth analysis of brain connectivity
+network using ordinal sequence based characterizer",
+"Development of Emotional Decision-Making Model Using EEG Signals",
+"Emotion Recognition System based on EEG signal"
+],
+"projects": [],
+"publications": {
+"0": "Audio-visual stimulation-based emotion classification by correlated EEG
+channels",
+"1": "Weighted ordinal connection based functional network classification for
+schizophrenia disease detection using EEG signal",
+"2": "A new approach for emotions recognition through EOG and EMG signals",
+"3": "EEG based variable node functional network comparison for multiclass brain
+disease detection using stacked ensemble model",
+"4": "Descendant adaptive filter to remove different noises from ECG signals",
+"5": "Principal and independent component-based analysis to enhance adaptive
+noise canceller for electrocardiogram signals",
+"6": "Dynamic characterization of functional brain connectivity network for
+mental workload condition using an effective network identifier",
+"7": "A divide and conquer approach for in-depth analysis of brain connectivity
+network using ordinal sequence based characterizer",
+"8": "Development of Emotional Decision-Making Model Using EEG Signals",
+"9": "Emotion Recognition System based on EEG signal"
+},
+"supervision": {"pg_dissertation": "NA",
+"ug_dissertation": "NA",
+"phd_dissertation": "NA",
+"mtech_dissertation": "NA"
+},
+"fellowships": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"Board of Governors": {
+"Chairperson": "Shri Ravi Sharma",
+"Additional Charge": "Chairperson -BoG, IIIT, Una. HP",
+"President": "IIT Alumni Council",
+"Chairman": "Telecom Equipment Manufacturers Association of India (TEMA)",
+"Founder": "Prama Jyoti Foundation / Mission Chetna / Subodhanand Foundation",
+"Members": [
+{
+"Name": "Ms Saumya Gupta",
+"Designation": "JS (Technical Education)",
+"Organization": "MoE New Delhi"
+},
+{
+"Name": "Dr Vinod Mohitkar",
+"Designation": "Director",
+"Organization": "DTE Govt. of Maharashtra, Mumbai"
+},
+{
+"Name": "Shri Ajay R Bohora",
+"Designation": "Co-Founder",
+"Organization": "HDFC Credila Financial Services, Nashik"
+},
+{
+"Name": "Dr (Mrs) B Padma S Rao",
+"Designation": "Chief Scientist and Head Environmental Audit and PolicyImplementation Division",
+"Organization": "CSIR-NEERI, Nagpur"
+},
+{
+"Name": "Shri V Murlidharan",
+"Designation": "Founder & Managing Trustee",
+"Organization": "Sevalaya Chennai"
+},
+{
+"Name": "Prof Dr Anupam Shukla",
+"Designation": "Director",
+"Organization": "SVNIT, Surat Surat"
+},
+{
+"Name": "Prof Dr Rajendra Patrikar",
+"Designation": "Professor ( Center of VLSI & Nanotechnology)",
+"Organization": "VNIT, Nagpur"
+},
+{
+"Name": "Dr Sachin Lodha",
+"Designation": "Chief Scientist",
+"Organization": "Corporate Technology Office TCS, Pune"
+},
+{
+"Name": "Professor (Dr) Prem Lal Patel",
+"Designation": "Director","Organization": "VNIT Nagpur"
+},
+{
+"Name": "Dr Tausif Diwan",
+"Designation": "Associate Dean",
+"Organization": "IIIT Nagpur"
+},
+{
+"Name": "Dr Aatish Daryapurkar",
+"Designation": "Assistant Professor",
+"Organization": "IIIT Nagpur"
+},
+{
+"Name": "Professor (Dr) Prem Lal Patel",
+"Designation": "Director",
+"Organization": "IIIT Nagpur"
+}
+],
+"Member Secretary": "Shri Kailas N Dakhale",
+"Designation": "Registrar",
+"Organization": "IIIT Nagpur"
+}
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"institute_name": "Indian Institute of Information Technology, Nagpur (IIITN)",
+"about": {
+"description": "IIITN is one of the 20 Indian Institutes of Information Technology
+established under the Public-Private Partnership Scheme by the Ministry of Education,
+Government of India. IIITN has been declared as an 'Institution of National Importance'
+under the provisions of the Indian Institute of Information Technology (Public-Private
+Partnership) Act, 2017. The Institute started functioning during the year 2016-17 and
+shifted to its Permanent Campus in Butibori, Nagpur under the Department of Higher
+Education, Ministry of Education and is supported by the Department of Higher Education,
+Government of Maharashtra and Tata Consultancy Services, Mumbai as Industry Partner."
+},
+"vision": "The Institute aspires to attain the status of a top-notch Institution in
+Information Technology and Allied Fields and to emerge as an elite Research Institution
+by imparting futuristic quality education of Global Standards to corroborate the status
+of an 'Institution of National Importance'.",
+"important_links": {
+"holidays": "https://iiitn.ac.in/academic-information/academic-Holidays",
+"academic_calendar": "https://iiitn.ac.in/academic-information/academic-calendar",
+"academic_time_table":
+"https://iiitn.ac.in/academic-information/academic-timeTable",
+"admission_notices": "https://iiitn.ac.in/student/advtNotices",
+"career": "https://iiitn.ac.in/recruitment",
+"tenders": "https://iiitn.ac.in/tender",
+"guest_house": "https://iiitn.ac.in/institute/campus-and-facilities/GuestHouse"
+},"contact_details": {
+"address": {
+"permanent_address": "Survey No. 140,141/1 behind Br. Sheshrao Wankhade Shetkari
+Sahkari Soot Girni, Village - Waranga, PO - Dongargaon(Butibori), Tahsil- Nagpur
+(Rural), District Nagpur, Maharashtra- 441108"
+},
+"phone": "+91 9405215010",
+"email": "registrar@iiitn.ac.in"
+},
+"additional_info": {}
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Dr Rahul Semwal",
+"department": "Computer Science and Engineering",
+"position": "Other",
+"phone_no": "9634985816",
+"email": "rsemwal@iiitn.ac.in",
+"joining_date": "2022-07-10",
+"education": [
+{
+"degree_year": 2012,
+"college_name": "AIET, Lucknow",
+"university": "GBTU"
+},
+{
+"degree_year": 2016,
+"college_name": "Indian Institute of Information Technology Allahabad",
+"university": "Indian Institute of Information Technology Allahabad"
+},
+{
+"degree_year": 2021,
+"college_name": "Indian Institute of Information Technology Allahabad",
+"university": "Indian Institute of Information Technology Allahabad"
+}
+],
+"teaching_experience": [],
+"industrial_experience": [],"laboratory_development": [],
+"areas_of_interest": [
+"Application of Machine Learning",
+"Computational Biology",
+"Big Data"
+],
+"projects": [],
+"publications": [],
+"supervision": {
+"pg_dissertation": "NA",
+"ug_dissertation": "NA",
+"phd_dissertation": "NA",
+"mtech_dissertation": "NA"
+},
+"fellowships": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"projects": [
+{
+"name": "Design and Development of High Gain Reconfigurable wideband Printed
+Antennas",
+"principal investigator": "Dr Rashmi Pandhare",
+"amount": "34,42,500",
+"period": "3 Years",
+"timeline": "2018-2021",
+"agency": "DST-SERB Science and Engineering Research Board (SERB) - Department of
+Science and Technology, India",
+"status": "Ongoing"
+},
+{
+"name": "A hybrid time-wavelet approach for early-stage diagnosis of Parkinsons
+Disease",
+"participants": [
+"Ankit A Bhurane",
+"Shivani Dhok",
+"Manish Sharma",
+"Rajamanickam Yuvraj",
+"M Murugappan",
+"U Rajendra Acharya"
+],
+"type": "Institute level project competition"
+},{
+"name": "Gesture controlled Car",
+"participants": [
+"Kartik Kinge (BT16ECE003)",
+"Aunshri Laddha (BT16ECE010)",
+"Rohit Agrawal (BT16ECE015)"
+],
+"type": "Technex17, National Level Techfest of St Vincent Pallotti College of
+Engineering and Technology, Nagpur"
+},
+{
+"name": "Best Innovation Awards 2017",
+"participants": [
+"Kartik Kinge (BT16ECE003)",
+"Rohit Agrawal (BT16ECE015)"
+],
+"type": "GH Raisoni College of Engineering, Nagpur and Pune"
+}
+]
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Professor (Dr) Prem Lal Patel",
+"title": "Director",
+"affiliation": "IIIT Nagpur",
+"email": "director@iiitn.ac.in",
+"office_address": "Director Office, Main Building, IIIT Nagpur",
+"position_history": [
+{
+"institute": "VNIT, Nagpur",
+"position": "Director",
+"tenure": {
+"start": "1st October, 2024",
+"end": "NA"
+}
+},
+{
+"institute": "SVNIT, Surat",
+"position": "Professor (HAG) of Hydraulics and Water Resources",
+"tenure": {
+"start": "2007",
+"end": "NA"
+}
+},
+{
+"institute": "SVNIT, Surat",
+"position": "Deputy Director","tenure": {
+"start": "Sept 17, 2019",
+"end": "Sept. 16, 2022"
+}
+},
+{
+"institute": "SVNIT Surat",
+"position": "Dean (PG)",
+"tenure": {
+"start": "NA",
+"end": "NA"
+}
+},
+{
+"institute": "SVNIT Surat",
+"position": "Dean (R&C)",
+"tenure": {
+"start": "NA",
+"end": "NA"
+}
+},
+{
+"institute": "SVNIT Surat",
+"position": "Dean (Academic)",
+"tenure": {
+"start": "NA","end": "NA"
+}
+},
+{
+"institute": "SVNIT Surat",
+"position": "Head, Dept. of Civil Engineering",
+"tenure": {
+"start": "NA",
+"end": "NA"
+}
+},
+{
+"institute": "Delhi College of Engineering (now DTU)",
+"position": "Associate Professor, Civil Engineering Department",
+"tenure": {
+"start": "NA",
+"end": "NA"
+}
+},
+{
+"institute": "Border Roads Organization (BRO), Ministry of Road Transport and
+Highways of India, Govt. of India",
+"position": "Assistant Executive Engineer (Civil)",
+"tenure": {
+"start": "1995",
+"end": "1999"}
+}
+],
+"education": [
+{
+"degree": "Bachelors in Civil Engineering",
+"institution": "Government Engineering College, Rewa, Madhya Pradesh, India"
+},
+{
+"degree": "Master in Civil Engineering",
+"institution": "Indian Institute of Technology Roorkee, India (the then University
+of Roorkee)"
+},
+{
+"degree": "Doctoral Degree in Civil Engineering",
+"institution": "Indian Institute of Technology Roorkee, India (the then University
+of Roorkee)"
+}
+],
+"research_areas": [
+"River Mechanics and Flood Control",
+"Hydrological Modelling and optimization of water systems",
+"Impact of climate change on water resources system"
+],
+"supervisions": {
+"doctoral_theses": 14,"master_theses": 49
+},
+"projects": {
+"sponsored_research": 6,
+"consultancy": 25
+},
+"publications": {
+"peer-reviewed_journals": 260,
+"conferences": 260
+},
+"memberships": [
+"Various Technical Societies",
+"Expert Committees",
+"Indian Society for Hydraulics",
+"Indian Water Resources Society",
+"Institution of Civil Engineers, India"
+],
+"international_visits": [
+"United States of America",
+"Netherlands",
+"China",
+"Italy",
+"Japan",
+"Dubai"
+],
+"awards": ["Member of climate changing working group of IAHR dealing with Fluvial Mechanism"
+],
+"additional_info": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"fees_payment": {
+"instruction": "The students are advised to pay the Academic Fees/Hostel Fees before
+filling the Registration Form or reporting to the Institute."
+},
+"institute_registration": {
+"instruction": "Students must fill the Registration Form through the link activated
+on the Institute's website (www.iiitn.ac.in) from 1st August 2023 until CSAB admissions
+are over."
+},
+"documents_to_be_uploaded": [
+"Institute Online Application Form",
+"Academic Bank of Credit (ABC) Id",
+"Seat Allotment Letter issued by JoSAA 2023/CSAB 2023",
+"JEE Main Score Card & Admit Card",
+"Photo ID Proof as per Govt. of India norms (Pan Card, Driving License, Aadhar,
+Passport)",
+"Birth Certificate issued by Competent Authority / Class X (SSC) Board Certificate",
+"Mark Sheets of Class X and XII",
+"Certificate of Social Category (OBC/SC/ST/EWS), if applicable, issued by the
+Competent Authority",
+"Non-Creamy Layer Certificate for OBC Category (issued on or after 1st April 2023)",
+"Caste Validity Certificate for students with a Caste Certificate issued by
+Maharashtra State",
+"Certificate for Persons with Disabilities (PwD), if applicable, as per JoSAA
+Format","Gap Affidavit, if applicable",
+"EWS Certificate, if applicable, issued on or after 1st April 2023",
+"Transfer Certificate",
+"Migration Certificate, if applicable",
+"Passport Size Photograph - 2 Copies",
+"Undertaking for Non-availability of prescribed documents, if applicable (format
+available on website)",
+"Medical Certificate (Original) as per JoSAA Format",
+"Receipt of Fee paid at JoSAA / CSAB",
+"Institute Fees Paid Receipt",
+"Copy of First Page of Bank Passbook / Cancelled Cheque of Student Bank Account"
+],
+"reporting": {
+"mode": "Physical",
+"instruction": "Students/parents are required to physically visit the Institute for
+reporting.",
+"schedule": {
+"start_date": "14th August 2023",
+"end_date": "21st August 2023 (Tentative)"
+}
+},
+"classes": {
+"commencement": "22nd August 2023",
+"note": "Time Table will be available on the Institute website."
+},
+"fees_details": {"note": "The Institute Fees must be paid through the Online Link provided on the
+website www.iiitn.ac.in or via DD in the name of Director IIIT, Nagpur payable at
+Nagpur.",
+"fees_for_1st_semester": {
+"josaa_allotment": {
+"general_obc_ews": {
+"total": 123850,
+"seat_acceptance": 36000,
+"partial_admission": 36000,
+"amount_to_be_paid": 51850
+},
+"sc_st_pwd": {
+"total": 123850,
+"seat_acceptance": 16000,
+"partial_admission": 16000,
+"amount_to_be_paid": 91850
+}
+},
+"csab_allotment": {
+"general_obc_ews": {
+"total": 123850,
+"special_round_enrollment_IAF_I": 40000,
+"special_round_enrollment_IAF_II": 32000,
+"amount_to_be_paid": 51850
+},
+"sc_st_pwd": {"total": 123850,
+"special_round_enrollment_IAF_I": 20000,
+"special_round_enrollment_IAF_II": 12000,
+"amount_to_be_paid": 91850
+}
+}
+}
+},
+"bank_details": {
+"academic_fees_payment": {
+"account_name": "IIITN GENERAL",
+"account_number": "41759739179",
+"bank_name": "State Bank of India",
+"bank_address": "VRCE Branch, South Ambazari Road, VNIT District Nagpur,
+Maharashtra - 440011",
+"branch_code": "06702",
+"ifsc_code": "SBIN0006702",
+"micr_code": "440002005",
+"contact": {
+"phone": "07122226046",
+"email": "sbi.06702@sbi.co.in"
+}
+},
+"hostel_fees_payment": {
+"account_name": "IIITN HOSTEL",
+"account_number": "41759639981","bank_name": "State Bank of India",
+"bank_address": "VRCE Branch, South Ambazari Road, VNIT District Nagpur,
+Maharashtra - 440011",
+"branch_code": "06702",
+"ifsc_code": "SBIN0006702",
+"micr_code": "
+
+-------------------------------------------------------------
+{
+"AdmissionCancellationAndRefundPolicy": {
+"Preamble": {
+"Description": "Admissions to the Institutes are done through JoSAA/CSAB by
+conducting various rounds under the Centralized Admissions Process. In case of fresh
+admissions, the Institute generally receives part of its approved fees from JoSAA/CSAB
+and part fees from the student when he/she reports for registration. The policy
+elaborates the details of consideration and settlement of admission cancellation and
+refund requests."
+},
+"AdmissionCancellation": {
+"1": "Students admitted may apply for cancellation at any time during the academic
+year.",
+"2": "Requests shall be considered only after receipt of written communication.",
+"3": "The receipt date of the request will determine the refund amount.",
+"4": "The Institute reserves the right to initiate cancellation against any
+student.",
+"5": "The Institute shall process the cancellation request after completing its
+process.",
+"6": "Only the approved fee structure will be considered during processing.",
+"7": "The Director or an authorized officer will approve cancellation requests."
+},
+"RefundOfAcademicFeesForFirstYear": {
+"1": "If a student fails to report according to JoSAA/CSAB schedule, the fees will
+be forfeited.",
+"2": "If a student reports but fails to register, the fees will be forfeited.","3": {
+"Condition": "If cancellation request is within 30 days after the centralized
+admission process",
+"Result": "Tuition fees forfeited, full other fees refunded after deducting Rs
+5000 for processing charges."
+},
+"4": {
+"Condition": "If cancellation request is after 30 days",
+"Result": "All fees forfeited except caution money."
+}
+},
+"RefundOfAcademicFeesForSecondThirdFourthYear": {
+"1": {
+"Condition": "If cancellation request is within 15 days of class commencement",
+"Result": "25% of tuition fees forfeited, 75% refunded, 100% of other fees
+forfeited."
+},
+"2": {
+"Condition": "If cancellation request is after 15 days",
+"Result": "100% of tuition and other fees forfeited, caution money refundable."
+}
+},
+"RefundOfHostelFees": {
+"1": {
+"Condition": "Request before centralized admission process and room not
+occupied","Result": "Full hostel fees refunded after deducting Rs 5000 for processing
+charges."
+},
+"2": {
+"Condition": "Request within 30 days after centralized admission process but
+room occupied",
+"Result": {
+"RoomRent": "100% Deduction",
+"CautionMoney": "100% Refund",
+"AdvanceElectricityCharges": "Rs 1200 per month or actual, balance refunded.",
+"AdvanceWaterCharges": "Rs 200 per month or actual, balance refunded.",
+"Recreation": "100% Deduction",
+"DepreciationFund": "100% Deduction",
+"WelfareFee": "100% Deduction",
+"AlliedServices": "100% Deduction",
+"MessDeposit": "100% Deduction",
+"MessCharges": "Actual bill for occupied period, balance refunded."
+}
+},
+"3": {
+"Condition": "Request after 30 days from centralized admission process",
+"Result": "All hostel fees forfeited."
+}
+},
+"OtherTerms": {
+"1": "Refunds are subject to deductions for damages to Institute property.","2": "If admission is canceled by the Institute due to disciplinary action, all
+fees are forfeited.",
+"3": "The Director's decision is final on all cases.",
+"4": "The Institute may modify this policy without notice.",
+"5": "Legal disputes will be settled in Nagpur, Maharashtra."
+},
+"additional_info": "NA"
+}
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"publications": [
+{
+"SrNo": 1,
+"Branch": "ME",
+"Title": "Vibration and deflection analysis of thin cracked and submerged
+orthotropic plate under thermal environment using strain gradient theory",
+"Journal": "Nonlinear Dyn",
+"Year": 2019,
+"Additional_Info": "SCI"
+},
+{
+"SrNo": 2,
+"Branch": "ME",
+"Title": "Effect of thermal environment on vibration analysis of partially cracked
+thin isotropic plate submerged in fluid",
+"Journal": "Journal of Solid Mechanics",
+"Year": 2019,
+"Additional_Info": "SCI (Article in press)"
+},
+{
+"SrNo": 3,
+"Branch": "ME",
+"Title": "Vibration buckling and deflection analysis of cracked thin magneto
+electro elastic plate under thermal environment",
+"Journal": "Journal of Solid Mechanics","Year": 2019,
+"Additional_Info": "SCI (Accepted for publication)"
+},
+{
+"SrNo": 4,
+"Branch": "Humanities",
+"Title": "Environmental Concerns for Smart City",
+"Conference": "International Conference on Redefining Environmental Governance for
+Smart City",
+"Organizer": "Post Graduate Teaching Department of Hindi of RTMNU Nagpur",
+"Date": "2nd March 2019"
+},
+{
+"SrNo": 1,
+"Branch": "ME",
+"Title": "Effect of crack location on vibration analysis of partially cracked
+isotropic and FGM micro-plate with non-uniform thickness: An analytical approach",
+"Journal": "International Journal of Mechanical Sciences",
+"Year": 2018,
+"Pages": "410-429",
+"Additional_Info": "SCI"
+},
+{
+"SrNo": 2,
+"Branch": "Humanities",
+"Title": "Use Of Abusive Language Shobha Des Rebelian Style Of Writing","Journal": "International Journal of Scientific Engineering and Research",
+"Volume": 6,
+"Issue": 12,
+"Year": 2018,
+"Month": "December"
+},
+{
+"SrNo": 3,
+"Branch": "Humanities",
+"Title": "Shobha Des Ironic Representation of a Conflict of Man-woman
+Relationship",
+"Journal": "International Journal of Scientific Engineering and Research",
+"Volume": 6,
+"Issue": 11,
+"Year": 2018,
+"Month": "November"
+},
+{
+"SrNo": 4,
+"Branch": "Maths",
+"Title": "On A Three-Step Efficient Fourth-Order Method For Computing the
+Numerical Solution of System of Nonlinear Equations and its Applications",
+"Journal": "Proceedings of the National Academy of Sciences India Section A
+Physical Sciences",
+"Publisher": "Springer",
+"Year": 2018,"Additional_Info": "SCIE IF 0.725 (Accepted)"
+},
+{
+"SrNo": 5,
+"Branch": "Maths",
+"Title": "An Efficient Fifth-Order Steffensen-Type Method For Solving Systems of
+Nonlinear Equations",
+"Journal": "International Journal of Computing Science and Mathematics",
+"Volume": 9,
+"Issue": 5,
+"Year": 2018,
+"Pages": "501-514"
+},
+{
+"SrNo": 1,
+"Branch": "Physics",
+"Title": "Magnetoelectric Properties of Microwave Sintered BiFeO3 and
+Bi090La010Fe095Mn005O3 Nanoceramics",
+"Journal": "Materials Chemistry and Physics",
+"Volume": 193,
+"Year": 2017,
+"Pages": "253-259"
+},
+{
+"SrNo": 2,
+"Branch": "Maths","Title": "An efficient fifth-order iterative scheme for solving a system of
+nonlinear equations and PDE",
+"Journal": "International Journal of Computing Science and Mathematics",
+"Year": 2017,
+"Additional_Info": "Article in Press"
+},
+{
+"SrNo": 3,
+"Branch": "Maths",
+"Title": "An efficient iterative scheme for computing multiple roots of nonlinear
+equations",
+"Conference": "7th IEEE International Conference on Communication Systems and
+Network Technologies (CSNT-2017)",
+"Month": "November",
+"Year": 2017,
+"Location": "IIIT Nagpur"
+},
+{
+"SrNo": 4,
+"Branch": "Maths",
+"Title": "An efficient iterative scheme for sequential data prediction",
+"Conference": "International conference on pattern recognition (ICPR-2017)",
+"Month": "December",
+"Year": 2017,
+"Location": "Ambedkar Institute of Advance communication Technology and Research
+New Delhi"},
+{
+"SrNo": 5,
+"Branch": "Physics",
+"Title": "Effect of annealing atmosphere on
+
+-------------------------------------------------------------
+{
+"name": "Dr. Neha Kasture",
+"department": "Computer Science and Engineering",
+"position": "Assistant Professor",
+"phone_no": "9890894239",
+"email": "nkasture@iiitn.ac.in",
+"joining_date": "2023-01-02",
+"education": [
+{
+"degree_year": "2008",
+"college_name": "Shri Ramdeobaba College of Engineering & Management",
+"university": "RTMNU"
+},
+{
+"degree_year": "2012",
+"college_name": "Shri Ramdeobaba College of Engineering & Management",
+"university": "RTMNU"
+},
+{
+"degree_year": "2023",
+"college_name": "Indian Institute of Information Technology Nagpur",
+"university": "Indian Institute of Information Technology Nagpur"
+}
+],
+"teaching_experience": [
+{"institution": "Shri Ramdeobaba College of engineering and Management,
+Nagpur",
+"position": "Assistant Professor",
+"start_date": "2017-07-04",
+"end_date": "2020-05-31"
+},
+{
+"institution": "Vishwakarma Institute of information Technology, Pune",
+"position": "Assistant Professor",
+"start_date": "2013-06-10",
+"end_date": "2017-04-10"
+}
+],
+"industrial_experience": [],
+"laboratory_development": [],
+"areas_of_interest": [
+"Natural Language Processing",
+"Speech Processing",
+"Machine Learning",
+"Data Structures, Theory of computation",
+"Natural language Processing, Machine Learning",
+"Advanced Data Structures, Algorithms",
+"Cryptography and Network Security"
+],
+"projects": [],
+"publications": {"0": "Comparative Study of Speaker Recognition Techniques in IoT Devices for
+Text Independent Negative Recognition Scalable Computing: Practice and Experience
+https://doi.org/10.1Non SCI",
+"1": "Graph Based Algorithms for Word Sense Induction and Disambiguation
+International Journal of Computer Science and its Applications ISSN 2250 - 3765Non SCI",
+"2": "Influences of Deep Learning on Recommendation Systems Helix, Scientific
+explorer 10.29042/2018-4340-4Non SCI",
+"3": "A Supervised Word Sense Disambiguation Method Using Ontology and Context
+Knowledge Computer Engineering and Intelligent Systems ISSN 2222-1719Non SCI",
+"4": "Automatic recognition of disordered children\u2019s speech signal in
+dyadic interaction using deep learning models Multimedia Tools and Applications
+https://doi.org/10.1SCI",
+"5": "An approach for Correcting the Word level Mispronunciations for non-native
+English speaking Indian Children Journal of Intelligent & Fuzzy Systems
+10.3233/JIFS-224472SCI",
+"6": "An Approach for sentiment analysis on social networking sites 2015
+International Conference on Computing Communication Control and Automation
+10.1109/ICCUBEA.2015Non SCI"
+},
+"supervision": {
+"pg_dissertation": "NA",
+"ug_dissertation": "NA",
+"phd_dissertation": "NA",
+"mtech_dissertation": "NA"
+},
+"fellowships": []}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Dr. Richa Makhijani",
+"department": "CSE",
+"position": "Assistant Professor",
+"phone_no": "9922411282",
+"email": "rmakhijani@iiitn.ac.in",
+"joining_date": "Dec 2020",
+"education": [
+{
+"degree_year": "2018",
+"college_name": "Visvesvaraya National Institute of Technology",
+"university": "NA"
+},
+{
+"degree_year": "NA",
+"college_name": "RTM Nagpur University",
+"university": "Visvesvaraya National Institute of Technology"
+}
+],
+"teaching_experience": [
+{
+"institution": "Indian Institute of Information Technology Nagpur",
+"position": "Assistant Professor",
+"start_date": "Dec 2020",
+"end_date": "Present"
+},{
+"institution": "SSGB COET, Bhusawal(MS)",
+"position": "Associate Professor",
+"start_date": "Dec 2008",
+"end_date": "Dec 2014"
+},
+{
+"institution": "Visvesvaraya National Institute of Technology",
+"position": "PHD Research Scholar",
+"start_date": "Jan 2015",
+"end_date": "Jul 2018"
+}
+],
+"industrial_experience": [],
+"laboratory_development": [],
+"areas_of_interest": [],
+"projects": [],
+"publications": {
+"0": "Identification of common key genes in breast, lung and prostate cancer and
+exploration of their heterogeneous expression\nRK Makhijani, SA Raut, HJ
+Purohit\nOncology letters 15 (2), 1680-1690\n11\t2018",
+"1": "Fold change based approach for identification of significant network
+markers in breast, lung and prostate cancer\nRK Makhijani, SA Raut, HJ Purohit\nIET
+Systems Biology 12 (5), 213-218\n7\t2018",
+"2": "Design and implementation of search engine using vector space model for
+personalized search\nI Bharambe, RK Makhijani\nInternational Journal of AdvancedResearch in Computer Science and Software \u2026\n3\t2014",
+"3": "Prioritization of Regions for Covid Vaccinations Using Fuzzy Logic\nM
+Lende, U Thaware, R Sharma, K Zade, R Makhijani\n2\t2021",
+"4": "Unsupervised feature selection for linked data\nRT Nemade, R
+Makhijani\nInternational Conference on Recent Advances and Innovations in Engineering
+\u2026\n2\t2014",
+"5": "SECURED DATA STORAGE AND RETRIEVAL IN MULTICLOUDING USING SHAMIR\u2019S
+SECRET SHARING ALGORITHM\nJV BHARAMBE, RK MAKHIJANI\n2\t2013",
+"6": "Performance Evaluation of Horizontal Aggregation Techniques in Sql\nLD
+Panjwani, RK Makhijani\nInternational Journal of Computer Science and Engineering
+(IJCSE) ISSN, 27-34\n2\tNA",
+"7": "Overview of different routing techniques for wireless multimedia sensor
+network\nRR Singh, RK Makhijani, P Singh\nInternational Journal of Innovations in
+Engineering and Technology 2 (1 \u2026\n1\t2013"
+},
+"supervision": [],
+"fellowships": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"Lab Details": {
+"Lab Name": "Communication Skill (English)",
+"Schedule": [
+{
+"Day": "Monday",
+"14:00-15:55": "Lab ComSk (CSE-I-DSA-2)"
+},
+{
+"Day": "Tuesday",
+"10:00-11:55": "Lab ComSk (CSE-I-HCIG-2)"
+},
+{
+"Day": "Wednesday",
+"10:00-11:55": "Lab ComSk (ECE-I-A2)",
+"14:00-15:55": "Lab ComSk (ECE-I-B1)"
+},
+{
+"Day": "Thursday",
+"10:00-11:55": "Lab ComSk (ECE-I-A1)",
+"14:00-15:55": "Lab ComSk (CSE-I-DSA-1)"
+},
+{
+"Day": "Friday",
+"10:00-11:55": "ComSk-LAB (CSE-I-HCIG-1)",
+"14:00-15:55": "Lab ComSk (ECE-I-B2)"}
+]
+}
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Ms. Prajakta Ramesh Padhye",
+"department": "Computer Science and Engineering",
+"position": "Assistant Professor",
+"phone_no": "8411069996",
+"email": "ppadhye@iiitn.ac.in",
+"joining_date": "1981-07-07",
+"education": [
+{
+"degree_year": "2003",
+"college_name": "S. E. S. College of Engineering, Dhule",
+"university": "KBCNMU, Jalgaon"
+},
+{
+"degree_year": "2017",
+"college_name": "Department of Technology, Shivaji University",
+"university": "Shivaji University"
+},
+{
+"degree_year": "2024",
+"college_name": "IIIT Nagpur",
+"university": "IIIT Nagpur"
+}
+],
+"teaching_experience": [
+{"institution": "SVPCET Nagpur",
+"position": "Assistant Professor",
+"start_date": "2022-07-15",
+"end_date": "2024-06-29"
+},
+{
+"institution": "SMVIT Bharuch",
+"position": "Lecturer",
+"start_date": "2006-06-15",
+"end_date": "2009-10-31"
+},
+{
+"institution": "J. T. Mahajan College of Engineering, Jalgaon",
+"position": "Lecturer",
+"start_date": "2004-02-09",
+"end_date": "2004-06-08"
+},
+{
+"institution": "IIIT Nagpur",
+"position": "Other",
+"start_date": "2024-07-09",
+"end_date": "2024-10-04"
+}
+],
+"industrial_experience": [
+{"institution": "V2 Solutions, Vashi, Navi Mumbai",
+"position": "Other",
+"start_date": "2010-05-24",
+"end_date": "2013-12-31"
+}
+],
+"laboratory_development": [],
+"areas_of_interest": [
+"AI",
+"Machine Learning",
+"Programming Languages"
+],
+"projects": [],
+"workshops": [],
+"publications": {
+"0": "A marketing solution for cross-selling by high utility itemset mining with
+dynamic transactional databases",
+"1": "Analysis and comparison of HUPID and FHIM algorithm for dynamic databases"
+},
+"supervision": {
+"pg_dissertation": "NA",
+"ug_dissertation": "NA",
+"phd_dissertation": "NA",
+"mtech_dissertation": "NA"
+},
+"fellowships": []}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"publications": [
+{
+"title": "A Provably Secure Lightweight Subtree-based Short Signature Scheme with
+Fuzzy User Data Sharing for Human-Centered IoT",
+"authors": [
+"Chandrashekhar Meshram",
+"Ahmed Alsanad",
+"Jitendra V. Tembhurne",
+"Shailendra W. Shende",
+"Kailash W. Kalare",
+"Sarita Gajbhiye Meshram",
+"Muhammad Azeem Akbar",
+"Abdu Gumaei"
+],
+"journal": "IEEE Access",
+"year": 2020,
+"indexing": "Indexed in SCIe",
+"impact_factor": 3.745,
+"status": "Accepted for publication",
+"additional_info": "NA"
+},
+{
+"title": "Provably Secure Lightweight Client Authentication Scheme with Anonymity
+for TMIS using Chaotic Hash Function",
+"authors": ["Vishesh P Gaikwad",
+"Chandrashekhar Meshram",
+"Cheng-Chi Lee",
+"Jitendra V. Tembhurne"
+],
+"journal": "The Journal of Supercomputing",
+"year": 2020,
+"indexing": "Indexed in SCI",
+"impact_factor": 1.569,
+"status": "Accepted for publication",
+"additional_info": "NA"
+},
+{
+"title": "A Lightweight Provably Secure Digital Short Signature Technique using
+Extended Chaotic Maps for Human-Centered IoT Systems",
+"authors": [
+"Chandrashekhar Meshram",
+"Mohammad S Obaidat",
+"Jitendra V. Tembhurne",
+"Shailendra W. Shende",
+"Kailash W. Kalare",
+"Sarita Gajbhiye Meshram"
+],
+"journal": "IEEE System Journal",
+"year": 2020,
+"indexing": "Indexed in SCI","impact_factor": 5.28,
+"status": "Accepted for publication",
+"additional_info": "NA"
+},
+{
+"title": "Parallelization of Global Sequence Alignment on Graphics Processing
+Unit",
+"authors": [
+"Kailash W. Kalare",
+"Mohammad S. Obaidat",
+"Jitendra V. Tembhurne",
+"Chandrashekhar Meshram",
+"Kuei-Fang Hsiao"
+],
+"conference": "Int. Conf. on Communications, Computing, Cybersecurity, and
+Informatics 2020 (CCCI-2020)",
+"location": "University of Sharjah, United Arab Emirates",
+"dates": "3rd - 5th November 2020",
+"indexing": "Indexed in SCOPUS",
+"additional_info": "NA"
+},
+{
+"title": "Sentiment Analysis in Textual, Visual and Multimodal Inputs using
+Recurrent Neural Networks",
+"authors": [
+"Jitendra V. Tembhurne","Tausif Diwan"
+],
+"journal": "Multimedia Tools and Applications",
+"year": 2020,
+"doi": "10.1007/s11042-020-10037-x",
+"indexing": "Indexed in SCIe",
+"additional_info": "NA"
+},
+{
+"title": "A Multi-Class Skin Cancer Classification using Deep Convolutional Neural
+Networks",
+"authors": [
+"S Chaturvedi",
+"Jitendra V. Tembhurne",
+"Tausif Diwan"
+],
+"journal": "Multimedia Tools and Applications",
+"year": 2020,
+"pages": "28477-28498",
+"date": "4th August 2020",
+"doi": "https://doi.org/10.1007/s11042-020-09388-2",
+"indexing": "Indexed in SCIe",
+"additional_info": "NA"
+},
+{
+"title": "A Subtree-based Transformation Model for Cryptosystem using Chaotic Mapsunder Cloud Computing Environment for Fuzzy User Data Sharing",
+"authors": [
+"C S Meshram",
+"Cheng-Chi Lee",
+"J. V. Tembhurne"
+],
+"journal": "International Journal of Communication Systems",
+"year": 2020,
+"volume": 33,
+"issue": 7,
+"article_number": "e4307",
+"indexing": "Indexed in SCI",
+"additional_info": "NA"
+},
+{
+"title": "A Road Monitoring Approach with Real-time Capturing of Events for
+Efficient Vehicle Safety in Smart Cities",
+"authors": [
+"Lal, Nidhi",
+"Shishupal Kumar",
+"Vijay Kumar Chaurasiya"
+],
+"journal": "Wireless Personal Communication",
+"publisher": "Springer",
+"year": 2020,
+"indexing": "SCI Indexed","additional_info": "NA"
+},
+{
+"title": "An Accurate Prediction of MPG (
+
+-------------------------------------------------------------
+{
+"name": "Dr Devyani Gupta",
+"department": "Electronic and Communication Engineering",
+"position": "Assistant Professor",
+"phone no": "7338016171",
+"email": "dgupta@iiitn ac in",
+"joining date": "2024-11-20",
+"education": [
+{
+"degree year": "2015",
+"college name": "MITS GWALIOR",
+"university": "RGPV BHOPAL"
+},
+{
+"degree year": "2023",
+"college name": "INDIAN INSTITUTE OF SCIENCE",
+"university": "BANGALORE"
+},
+{
+"degree year": "2023",
+"college name": "INDIAN INSTITUTE OF SCIENCE",
+"university": "BANGALORE"
+},
+{
+"degree year": "2023",
+"college name": "INDIAN INSTITUTE OF SCIENCE","university": "BANGALORE"
+}
+],
+"teaching experience": [
+{
+"institution": "UPGRAD INSOFE",
+"position": "Assistant Professor",
+"start date": "2022-05-02",
+"end date": "2022-10-14"
+}
+],
+"industrial experience": [
+{
+"institution": "INDIAN INSTITUTE OF SCIENCE",
+"position": "Laboratory Development",
+"start date": "18-10-2022",
+"end date": "15-01-2024"
+}
+],
+"areas of interest": [
+"Optimization",
+"Communication Networks",
+"Operations Research",
+"Random Process",
+"Communications Network",
+"Linear Algebra","Mathematics for Engineers",
+"Linear Algebra",
+"Real Analysis",
+"Linear Optimzation",
+"Wireless Networks",
+"Linear Non-Linear Optimization",
+"Mathematics for Electrical Engineers",
+"Convex Optimization"
+],
+"projects": [
+{
+"title": "Optimal Network Design: Edge Server Placement and Link Capacity
+Assignment for Delay-Constrained Services",
+"funding agency": "NA",
+"role": "NA",
+"start date": "NA",
+"end date": "NA",
+"funding amount": "NA"
+},
+{
+"title": "Optimal VNF Placement and Traffic Steering using Column
+Generation",
+"funding agency": "NA",
+"role": "NA",
+"start date": "NA",
+"end date": "NA","funding amount": "NA"
+}
+],
+"publications": [
+{
+"title": "Optimal Network Design: Edge Server Placement and Link Capacity
+Assignment for Delay-Constrained Services",
+"conference": "17th International Conference on Network and Service
+Management (CNSM)"
+},
+{
+"title": "Optimal VNF Placement and Traffic Steering using Column
+Generation",
+"conference": "IEEE 9th International Conference on Cloud Networking
+(CloudNet)"
+}
+],
+"supervision": {
+"pg dissertation": [
+{
+"student name": "NA",
+"title": "NA",
+"start date": "NA",
+"end date": "NA",
+"status": "Running"
+}],
+"ug dissertation": [
+{
+"student name": "NA",
+"title": "NA",
+"start date": "NA",
+"end date": "NA",
+"status": "Running"
+}
+],
+"phd dissertation": [
+{
+"student name": "NA",
+"title": "NA",
+"start date": "NA",
+"end date": "NA",
+"status": "Running"
+}
+],
+"mtech dissertation": [
+{
+"student name": "NA",
+"title": "NA",
+"start date": "NA",
+"end date": "NA",
+"status": "Running"}
+]
+},
+"fellowships": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"committees": [
+{
+"name": "Anti-Ragging Committee",
+"description": "The Anti-Ragging Committee at IIIT Nagpur is responsible for
+implementing preventive and remedial measures against ragging.",
+"members": [
+{
+"name": "Shri Kailas N Dakhale",
+"designation": "Chairman",
+"role": "Registrar"
+},
+{
+"name": "Dr Prasad Joshi",
+"designation": "Member",
+"role": "Assistant Professor & HoD, BS"
+},
+{
+"name": "Dr Tausif Diwan",
+"designation": "Member",
+"role": "Associate Dean"
+},
+{
+"name": "Dr Nishat Afshan Ansari",
+"designation": "Member",
+"role": "Assistant Professor & HoD, CSE"},
+{
+"name": "Dr Harsh Goud",
+"designation": "Member",
+"role": "Assistant Professor & HoD, ECE"
+},
+{
+"name": "Mr Udbhav Mittal",
+"designation": "Member",
+"role": "Student Representative, CSE"
+},
+{
+"name": "Mr Swastik Katiyar",
+"designation": "Member",
+"role": "Student Representative, ECE"
+}
+]
+},
+{
+"name": "Institute Level Anti-Ragging Squad",
+"description": "The squad meets to review and take action on anti-ragging measures
+at the institute level.",
+"members": [
+{
+"name": "Dr Prasad Joshi",
+"designation": "Chairman","department": "BS"
+},
+{
+"name": "Dr Girish Ghivela",
+"designation": "Member",
+"department": "ECE"
+},
+{
+"name": "Dr Shankar Bhattacharjee",
+"designation": "Member",
+"department": "ECE"
+},
+{
+"name": "Dr Shishupal Kumar",
+"designation": "Member",
+"department": "CSE"
+},
+{
+"name": "Dr Snehal Shinde",
+"designation": "Member",
+"department": "CSE"
+},
+{
+"name": "Shri Shashikant Bhongale",
+"designation": "Member",
+"department": "Admin"},
+{
+"name": "Mr Sujay Kamble",
+"designation": "Member",
+"role": "Student Representative"
+},
+{
+"name": "Ms Naina Rai",
+"designation": "Member",
+"role": "Student Representative"
+}
+]
+},
+{
+"name": "Equal Opportunity Cell",
+"description": "The Equal Opportunity Cell is responsible for addressing the needs
+of differently-abled persons.",
+"members": [
+{
+"name": "Dr Anil Kumar Kushwah",
+"designation": "Chairman",
+"email": "akushwah@iiitn.ac.in",
+"phone": "9893739034"
+},
+{
+"name": "Dr Kamaljeet","designation": "Member",
+"email": "kamaljeet@iiitn.ac.in",
+"phone": "8127583552"
+},
+{
+"name": "Mr Ashok Dongare",
+"designation": "Member",
+"email": "jecivil@iiitn.ac.in",
+"phone": "9689009639"
+},
+{
+"name": "Mr Niloba Mahajan",
+"designation": "Member",
+"email": "janamahajan@iiitn.ac.in",
+"phone": "8999296062"
+},
+{
+"name": "Mr Nenavath Chandra Shekhar",
+"designation": "Member",
+"role": "Student",
+"email": "bt22csh040@iiitn.ac.in"
+},
+{
+"name": "Dr Jigar Shah",
+"designation": "Member",
+"role": "Parent"}
+]
+},
+{
+"name": "Internal Complaint Committee",
+"description": "The Internal Complaint Committee is set up under the Sexual
+Harassment of Women at Workplace (Prevention, Prohibition & Redressal) Act, 2013.",
+"link":
+"https://iiitn.ac.in/18092024/Policy%20of%20Prevention%20of%20Sexual%20Harassment%20of%2
+0Women%20at%20Workplace.pdf"
+}
+]
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Dr Bhukya Venkanna Naik",
+"department": "Electronic and Communication Engineering",
+"position": "Other",
+"phone no": "8247213986",
+"email": "bnaik@iiitn ac in",
+"joining date": "2024-11-11",
+"education": [
+{
+"degree year": "2010",
+"college name": "JNTUH",
+"university": "JNTUH"
+},
+{
+"degree year": "2018",
+"college name": "CSIR AcSIR",
+"university": null
+},
+{
+"degree year": "2022",
+"college name": "CSIR NPL ACSIR",
+"university": null
+}
+],
+"teaching experience": [
+{"institution": "SVNIT Surat",
+"position": "Other",
+"start date": "2022-11-07",
+"end date": "2023-10-07"
+},
+{
+"institution": "IIIT Pune",
+"position": "Other",
+"start date": "2023-11-14",
+"end date": "2024-11-11"
+}
+],
+"industrial experience": [
+{
+"institution": "Electronics Corporation of India Limited (ECIL) Hyderabad",
+"position": "Other",
+"start date": "2011-09-14",
+"end date": "2013-09-14"
+},
+{
+"institution": "Uppal Industrial Association Hyderabad",
+"position": "Other",
+"start date": "2014-01-08",
+"end date": "2016-05-26"
+}
+],"laboratory development": [
+{
+"institution": "ECIL Rapascan",
+"position": "Other",
+"start date": "14-09-2011",
+"end date": "14-09-2013"
+}
+],
+"areas of interest": [
+"RF and Microwave/Millimeter Wave,RIS, THz Antennas Communication",
+"Radar, Satellite Communication Systems",
+"Computational Electromagnetics",
+"Nanotechnology, Quantum Electromagnetics and Photonic Integrated Circuits",
+"Electromagnetics",
+"Analog and Digital communications,analog circuits,Electronic Devices and
+Circuits",
+"Radar, Satellite Communication systems,Antennas",
+"RF and Microwave Circuits,Computational Electromagnetics",
+"Advance Communication systems"
+],
+"projects": [],
+"publications": {
+"0": "Assessment of Indoor-Outdoor Wi-Fi Radiation on Human Body and its Precise
+SAR Measurement  Indian Journal of Pure & Applied Physics (IJPAP)
+10 56042/ijpap v59i1SCI",
+"1": "Design and Analysis of Rectangular Slot Microstrip Patch Antenna ForMillimeter Wave Communication and SAR Evaluation International Journal of Antennas
+(JANT) 10 5121/jant 2021 71Non SCI",
+"2": "Design and analysis of circular microstrip patch probe array for precise
+specific absorption rate measurement at quad-band International Journal of Microwave and
+Wireless Technologies  10 1017/S17590787220SCI",
+"3": "Design analysis and validation of coaxial probe for tissue dielectric
+properties evaluation used in specific absorption rate measurement Electromagnetic
+Biology and Medicine 10 1080/15368378 2SCI",
+"4": "Specific Absorption Rate (SAR) measurement at CSIR-NPL based on IEEE
+1528-2013 National Conference on Electrical and Electronics Measurements (NCEEM) at
+CSIR-NPL 00Non SCI",
+"5": "Gold coated cobalt nanoparticles as SAR controlling agent for hyperthermia
+applications IEEE MTT-S International Microwave and RF Conference (IMaRC),
+10 1109/IMaRC 2017 8Non SCI",
+"6": "Simulation of Low-loss Permittivity Measurement for Xn-Band Waveguide
+System Regional Conference on Radio Science (URSI)-2017 00Non SCI",
+"7": "A Novel Microstrip Patch Antenna for Smartphone Communication\u201d
+Regional Conference on Radio Science (URSI)-2017  00Non SCI",
+"8": "Design and Analysis of Rectangular Slot Microstrip Patch Antenna for Wi-Fi
+Application at Millimetre-wave Communication 2022 IEEE 10th Region IOT Humanitarian
+Technology Conference (R10-HTC)-Sep 2022 10 1109/R10-HTC54060Non SCI"
+},
+"supervision": {
+"pg dissertation": null,
+"ug dissertation": null,
+"phd dissertation": null,"mtech dissertation": null
+},
+"fellowships": [
+{
+"organization": "IEEE MTT-S",
+"membership id": "94005946",
+"type":
+
+-------------------------------------------------------------
+{
+"name": "Dr Ujwal Warbhe",
+"department": "Basic Science",
+"position": "Assistant Professor",
+"phone_no": "8087794291",
+"email": "uwarbhe@iiitn.ac.in",
+"joining_date": "2024-11-25",
+"education": [
+{
+"degree_year": "2009",
+"college_name": "Government Institute Of Science, Nagpur",
+"university": "Nagpur University"
+},
+{
+"degree_year": "2012",
+"college_name": "Nagpur University",
+"university": "Nagpur University"
+},
+{
+"degree_year": "2017",
+"college_name": "VNIT Nagpur",
+"university": "VNIT Nagpur"
+}
+],
+"teaching_experience": [
+{"institution": "College of Engineering Pune (COEP)",
+"position": "Lecturer",
+"start_date": "2017-07-17",
+"end_date": "2018-06-30"
+},
+{
+"institution": "Bajaj Institute of Technology, Wardha",
+"position": "Assistant Professor",
+"start_date": "2018-07-02",
+"end_date": "2019-01-02"
+},
+{
+"institution": "National Institute of Technology, Srinagar",
+"position": "Assistant Professor",
+"start_date": "2019-01-23",
+"end_date": "2024-11-25"
+}
+],
+"industrial_experience": [],
+"laboratory_development": [],
+"areas_of_interest": [
+"Numerical Analysis",
+"Wavelet Analysis",
+"Mathematical Physics",
+"Complex Function Theory",
+"Finite Element Method","Calculus for Engineers",
+"Numerical Methods and Probability Theory"
+],
+"projects": [],
+"publications": {
+"0": "New approach for solving a class of singular boundary value problem
+arising in various physical models",
+"1": "A domain decomposition scheme for solving singular boundary value problems
+arising in various physical models",
+"2": "Uncertainty principles associated with multi-dimensional linear canonical
+transform",
+"3": "Eigenvalue method for the solution of multi-compartment model of HIV-AIDS
+transmission",
+"4": "A novel numerical approach and its convergence for numerical solution of
+nonlinear doubly singular boundary value problems",
+"5": "An eficient algorithm for solving a class of derivative dependent
+nonlinear doubly singular boundary value problems"
+},
+"supervision": {
+"pg_dissertation": "NA",
+"ug_dissertation": "NA",
+"phd_dissertation": "NA",
+"mtech_dissertation": "NA"
+},
+"fellowships": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"Department_Name": "Department of Basic Sciences and Engineering",
+"Institute_Name": "Indian Institute of Information Technology Nagpur",
+"Established_Year": 2016,
+"Head_of_Department": "Dr. Prasad V. Joshi",
+"Department_Vision": "To become a stateoftheart department with highquality education
+and cuttingedge interdisciplinary research in science.",
+"Department_Courses": [
+"Applied Sciences",
+"Mathematics",
+"Humanities",
+"Environmental Studies"
+],
+"Research_Focus": [
+"Applied/Engineering Mathematics",
+"Real Algebraic Geometry",
+"Applied/ Engineering Physics",
+"Material Science",
+"Nanoscience and Nanotechnology",
+"Quadratic forms Algebra",
+"Numerical Analysis",
+"Differential Equation",
+"Data Science",
+"Data Mining",
+"Mathematical Modelling",
+"Culture and Society","Technology and culture intervention",
+"Science, Technology and Society",
+"Innovation",
+"Small Scale Industries",
+"Forestry based MSMEs"
+],
+"Faculty_Qualifications": "PhD degrees from renowned institutes across India and
+abroad",
+"Additional_Information": "NA"
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Dr Mayank Thacker",
+"department": "Electronic and Communication Engineering (ECE)",
+"position": "Assistant Professor",
+"phone no": "9423732507",
+"email": "mthacker@iiitn ac in",
+"joining date": "2022-11-11",
+"education": [
+{
+"degree year": "2009",
+"college name": "Shri Ramdeobaba College of Engineering and Management,
+Nagpur",
+"university": "RTM Nagpur University"
+},
+{
+"degree year": "2013",
+"college name": "Shri Ramdeobaba College of Engineering and Management,
+Nagpur",
+"university": "RTM Nagpur University"
+},
+{
+"degree year": "2022",
+"college name": "University of Manitoba, Winnipeg, Canada",
+"university": "University of Manitoba"
+}
+],"teaching experience": [
+{
+"institution": "RCOEM",
+"position": "Lecturer",
+"start date": "2009-11-16",
+"end date": "2011-04-30"
+},
+{
+"institution": "RCOEM, Nagpur",
+"position": "Assistant Professor",
+"start date": "2014-07-01",
+"end date": "2016-12-31"
+},
+{
+"institution": "IIIT, Nagpur",
+"position": "Assistant Professor",
+"start date": "2022-11-11",
+"end date": "2024-07-29"
+}
+],
+"industrial experience": [],
+"laboratory development": [],
+"areas of interest": [
+"Analog Circuit design",
+"Mixed signal RF circuit design",
+"Microelectronic fabrication","MEMS",
+"Digital Circuits",
+"HDL",
+"Sensors and Transducers",
+"Industrial IoT",
+"RF circuit design"
+],
+"projects": [],
+"publications": {
+"0": "First Publication Here (all details)",
+"1": "Second Publication Here (all details)",
+"2": "Third Publication Here (all details)",
+"3": "Fourth Publication Here (all details)"
+},
+"supervision": {
+"pg dissertation": "NA",
+"ug dissertation": "NA",
+"phd dissertation": "NA",
+"mtech dissertation": "NA"
+},
+"fellowships": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"departmentHeads": [
+{
+"departmentName": "Department of Basic Science and Engineering",
+"headName": "Dr. Prasad V. Joshi",
+"headTitle": "Assistant Professor & HOD",
+"phoneNumber": "9893195909",
+"email": "pjoshi@iiitn.ac.in"
+},
+{
+"departmentName": "Department of Computer Science and Engineering",
+"headName": "Dr. Nishat A. Ansari",
+"headTitle": "Assistant Professor & HOD",
+"phoneNumber": "9766223703",
+"email": "nishat.ansari@iiitn.ac.in"
+},
+{
+"departmentName": "Department of Electronics and Communication Engineering",
+"headName": "Dr. Harsh Goud",
+"headTitle": "Assistant Professor & HOD",
+"phoneNumber": "9827554326",
+"email": "hgoud@iiitn.ac.in"
+}
+]
+}<|eot_id|>
+
+-------------------------------------------------------------
+{ "CourseStructureAndCreditSystem": { "CreditSystem": { "Description":
+"Education at the Institute is organized around the semester-based credit system of
+study featuring continuous evaluation of student performance and flexibility in
+progression Performance is measured by earned credits and grade point averages Details
+are in Section 4", "GradePointCalculation": "Based on course credits and grades
+Minimum GPA and earned credits are required for degree qualification and continuation"
+}, "CourseCreditsAssignment": { "CreditCalculation": {
+"LectureTutorial": "One lecture hour per week per semester equals one credit",
+"PracticalLabStudio": "One laboratory/studio hour per week per semester equals 0.5
+credits", "Example": "Course with 3-0-2 structure equals 4 credits (3 from
+lectures + 1 from practical)" }, "NonCreditCourses": "A few courses are
+non-credit NC" }, "CourseCodeSchemeAndEvaluationPattern": {
+"CodeStructure": { "Format": "DDTNMM", "Components": { "DD":
+"Department code", "T": "Course type", "N": "Course level",
+"MM": "Course number" } }, "EvaluationPattern": {
+"LectureCourses": { "EvaluationMethods": [ "Sessional Exam I",
+"Sessional Exam II", "Teacher Assessment 10-20 marks",
+"End Semester Exam 50-60 marks" ] }, "ProjectCourses": {
+"EvaluationMethods": [ "Mid-Semester Evaluation 30-40 marks",
+"End-Semester Evaluation 60-70 marks" ] },
+"IndependentStudy": { "EvaluationPattern": "Same as Project Courses" }
+}, "CourseLevels": { "Levels": { "1xx": "Elementary UG
+only no prerequisites", "2xx": "First courses in the area core UG only",
+"3xx": "Second level courses core/elective UG only", "4xx":
+"Advanced/elective UG or basic PG", "5xx": "Advanced PG 4th year UG PG or PhD
+eligible" } } }, "EarnedCredits": { "PassGrades": "Creditsare earned upon receiving a passing grade", "AuditCourses": "Grades in audit
+courses do not affect GPA", "Requirements": "Minimum earned credits are needed for
+degree qualification" }, "CourseContentDescription": { "Components": [
+"Course Code", "Title", "Credits and L-T-P",
+"Pre-requisites", "Course Outcomes", "Content Description",
+"Text and Reference Books", "Lab Experiments if applicable" ] },
+"Prerequisites": { "Definition": "Courses or knowledge required to take another
+course", "Example": "CSL102 Data Structure requires CSL101 Computer Programming"
+}, "OverlappingEquivalentCourses": { "Definition": "Courses with 60 or more
+content similarity Credits cannot be earned for multiple courses in a set of
+overlapping/equivalent courses" }, "GradingSystem": { "GradePoints": {
+"AA": 10, "AB": 9, "BB": 8, "BC": 7, "CC": 6,
+"CD": 5, "DD": 4, "FF": 0, "NP": "Audit Pass", "NF":
+"Audit Fail", "SS": "Satisfactory in zero credit course", "ZZ":
+"Unsatisfactory in zero credit course" }, "Descriptions": { "AA":
+"Outstanding", "AB": "Excellent", "BB": "Very Good", "BC":
+"Good", "CC": "Average", "CD": "Below Average", "DD": "Marginal
+Minimum Passing Grade", "FF": "Poor Fail Absent" }, "GPAFormula": {
+"SGPA": "EGP / Sum Course Credits for Semester", "CGPA": "EGP / Sum
+Course Credits for All Passed Semesters" } }, "CourseEvaluation": {
+"TheoryCourses": { "Components": [ "Sessional Exams", "End
+Semester Exam", "Teacher Assessment tests quizzes assignments etc" ],
+"SessionalExamDuration": "1 hour", "EndSemesterExamDuration": "3 hours"
+}, "PracticalCourses": { "ContinuousAssessment": "Based on lab
+evaluations either in every lab or phases" }, "FinalEvaluation": {
+"Weightage": { "Theory": 75, "Lab": 25 },"ExampleCalculation": "Final Score Theory Marks times 0.75 plus Lab Marks times 0.25"
+} } }, "miscellaneous": { "prerequisites": "Students must complete
+prerequisite courses before enrolling in advanced courses", "overlapping_courses":
+"Courses with 60 common content are considered equivalent and cannot both count for
+credit
+
+-------------------------------------------------------------
+{
+"schedule": {
+"room": "CR-301",
+"monday": [
+{
+"time": "8:00-8:55 AM",
+"subject": "COMNT",
+"course": "IoT-III"
+},
+{
+"time": "9:00-9:55 AM",
+"activity": "Go to Seminar hall for PE"
+},
+{
+"time": "10:00-10:55 AM",
+"subject": "FML",
+"course": "IoT-III, ECE-IV-A-B"
+},
+{
+"time": "11:00-11:55 AM",
+"subject": "CMOS",
+"course": "IoT-III"
+},
+{
+"time": "12:00-12:55 PM",
+"subject": "EMBSD","course": "IoT-III"
+},
+{
+"time": "2:00-2:55 PM",
+"subject": "OC-I, ALA(3)",
+"course": "IoT-III, CSE-A,B,C,CSH"
+},
+{
+"time": "3:00-3:55 PM",
+"subject": "DC",
+"course": "ECE-III-A"
+},
+{
+"time": "4:00-4:55 PM",
+"subject": "W&A",
+"course": "ECE-III-A"
+}
+],
+"tuesday": [
+{
+"time": "8:00-8:55 AM",
+"subject": "COMNT",
+"course": "IoT-III"
+},
+{
+"time": "9:00-9:55 AM","activity": "Go to CR-203 for Robotics"
+},
+{
+"time": "10:00-10:55 AM",
+"subject": "COMNT",
+"course": "IoT-III"
+},
+{
+"time": "11:00-11:55 AM",
+"subject": "CMOS",
+"course": "IoT-III"
+},
+{
+"time": "1:00-1:55 PM",
+"subject": "DC",
+"course": "ECE-III-A"
+},
+{
+"time": "3:00-3:55 PM",
+"subject": "W&A",
+"course": "ECE-III-A"
+},
+{
+"time": "5:00-5:55 PM",
+"subject": "OC-I, ALA(3)",
+"course": "IoT-III, CSE-A,B,C,CSH"}
+],
+"wednesday": [
+{
+"time": "10:00-10:55 AM",
+"subject": "EMBSD",
+"course": "IoT-III"
+},
+{
+"time": "11:00-11:55 AM",
+"subject": "IND-IoT",
+"course": "IoT-III, ECE-IV-A-B"
+},
+{
+"time": "12:00-12:55 PM",
+"subject": "FML",
+"course": "IoT-III, ECE-IV-A-B"
+},
+{
+"time": "1:00-1:55 PM",
+"subject": "DC",
+"course": "ECE-III-A"
+},
+{
+"time": "3:00-3:55 PM",
+"subject": "EMBS","course": "ECE-III-B"
+},
+{
+"time": "4:00-4:55 PM",
+"subject": "HDL",
+"course": "ECE-III-A"
+}
+],
+"thursday": [
+{
+"time": "10:00-10:55 AM",
+"activity": "Go to Seminar hall for PE"
+},
+{
+"time": "11:00-11:55 AM",
+"subject": "FML",
+"course": "IoT-III, ECE-IV-A-B"
+},
+{
+"time": "12:00-12:55 PM",
+"subject": "IND-IoT",
+"course": "IoT-III, ECE-IV-A-B"
+},
+{
+"time": "1:00-1:55 PM",
+"subject": "EMBS","course": "ECE-III-B"
+},
+{
+"time": "3:00-3:55 PM",
+"subject": "OC-I, ALA(3)",
+"course": "IoT-III, CSE-A,B,C,CSH"
+},
+{
+"time": "4:00-4:55 PM",
+"subject": "HDL",
+"course": "ECE-III-A"
+},
+{
+"time": "5:00-5:55 PM",
+"subject": "W&A",
+"course": "ECE-III-A"
+}
+],
+"friday": [
+{
+"time": "8:00-8:55 AM",
+"subject": "IND-IoT",
+"course": "IoT-III, ECE-IV-A-B"
+},
+{
+"time": "9:00-9:55 AM","
+
+-------------------------------------------------------------
+{
+"name": "Ms. Madhuri Dubey",
+"department": "Computer Science and Engineering",
+"position": "Adjunct Assistant Professor",
+"phone_no": "9637073939",
+"email": "mdubey@iiitn.ac.in",
+"joining_date": "10-07-2023",
+"education": [
+{
+"degree_year": "2012",
+"degree": "U.G.",
+"college_name": "RTMNU",
+"university": "RTMNU"
+},
+{
+"degree_year": "2014",
+"degree": "P.G.",
+"college_name": "GHRCE",
+"university": "RTMNU"
+},
+{
+"degree_year": "2024",
+"degree": "PH.D",
+"college_name": "IIIT NAGPUR",
+"university": "IIIT"
+}],
+"teaching_experience": [
+{
+"institution": "Indian Institute of Information Technology Nagpur",
+"position": "Adjunct Assistant Professor",
+"start_date": "10-07-2023",
+"end_date": "NA"
+}
+],
+"industrial_experience": [],
+"laboratory_development": [],
+"areas_of_interest": [],
+"projects": [
+{
+"title": "Group Message Privacy and Data Sharing",
+"funding_agency": "NA",
+"role": "NA",
+"start_date": "NA",
+"end_date": "NA",
+"funding_amount": "NA"
+},
+{
+"title": "Event management system",
+"funding_agency": "NA",
+"role": "NA",
+"start_date": "NA","end_date": "NA",
+"funding_amount": "NA"
+},
+{
+"title": "Neural Cryptography for Secret Key Exchange",
+"funding_agency": "NA",
+"role": "NA",
+"start_date": "NA",
+"end_date": "NA",
+"funding_amount": "NA"
+},
+{
+"title": "Implementation of Event Planner",
+"funding_agency": "NA",
+"role": "NA",
+"start_date": "NA",
+"end_date": "NA",
+"funding_amount": "NA"
+},
+{
+"title": "Review of optimised fusion Techniques in human computer
+interaction",
+"funding_agency": "NA",
+"role": "NA",
+"start_date": "NA",
+"end_date": "NA","funding_amount": "NA"
+},
+{
+"title": "Improving coronary heart disease prediction with real-life
+dataset: a stacked generalization framework with maximum clinical attributes and SMOTE
+balancing for imbalanced data",
+"funding_agency": "NA",
+"role": "NA",
+"start_date": "NA",
+"end_date": "NA",
+"funding_amount": "NA"
+},
+{
+"title": "Eye and Speech Fusion in Human Computer Interaction",
+"funding_agency": "NA",
+"role": "NA",
+"start_date": "NA",
+"end_date": "NA",
+"funding_amount": "NA"
+},
+{
+"title": "A Survey Paper on Group Message Privacy and Data Sharing",
+"funding_agency": "NA",
+"role": "NA",
+"start_date": "NA",
+"end_date": "NA","funding_amount": "NA"
+}
+],
+"publications": {
+"0": "Group Message Privacy and Data Sharing",
+"1": "Event management system",
+"2": "Neural Cryptography for Secret Key Exchange",
+"3": "Implementation of Event Planner",
+"4": "Review of optimised fusion Techniques in human computer interaction",
+"5": "Improving coronary heart disease prediction with real-life dataset: a
+stacked generalization framework with maximum clinical attributes and SMOTE balancing
+for imbalanced data",
+"6": "Eye and Speech Fusion in Human Computer Interaction",
+"7": "A Survey Paper on Group Message Privacy and Data Sharing"
+},
+"supervision": {
+"pg_dissertation": "NA",
+"ug_dissertation": "NA",
+"phd_dissertation": "NA",
+"mtech_dissertation": "NA"
+},
+"fellowships": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"Rooms": [
+{
+"Room_Name": "Seminar Hall",
+"Schedules": [
+{
+"Day": "Monday",
+"Time_Slots": [
+{
+"Time": "9:00-9:55 AM",
+"Subject": "OC-I, PE(3)"
+},
+{
+"Time": "12:00-12:55 PM",
+"Subject": "AIC",
+"Course": "ECE-II"
+},
+{
+"Time": "1:00-1:55 PM",
+"Subject": "OC-I, PG&D(3)"
+},
+{
+"Time": "2:00-2:55 PM",
+"Subject": "OC-I, PE(3)"
+}]
+},
+{
+"Day": "Tuesday",
+"Time_Slots": [
+{
+"Time": "12:00-12:55 PM",
+"Subject": "OC-I, PE(3)"
+},
+{
+"Time": "2:00-2:55 PM",
+"Subject": "OC-I, TC(3)"
+},
+{
+"Time": "4:00-4:55 PM",
+"Subject": "OC-I, PG&D(3)"
+},
+{
+"Time": "5:00-5:55 PM",
+"Subject": "OC-I, PE(3)"
+}
+]
+},
+{
+"Day": "Wednesday",
+"Time_Slots": [{
+"Time": "12:00-12:55 PM",
+"Subject": "AIC",
+"Course": "ECE-II"
+},
+{
+"Time": "5:00-5:55 PM",
+"Subject": "OC-I, TC(3)"
+}
+]
+},
+{
+"Day": "Thursday",
+"Time_Slots": [
+{
+"Time": "10:00-10:55 AM",
+"Subject": "OC-I, PE(3)"
+},
+{
+"Time": "12:00-12:55 PM",
+"Subject": "AIC",
+"Course": "ECE-II"
+},
+{
+"Time": "2:00-2:55 PM",
+"Subject": "OC-I, PG&D(3)"},
+{
+"Time": "3:00-3:55 PM",
+"Subject": "OC-I, PE(3)"
+}
+]
+},
+{
+"Day": "Friday",
+"Time_Slots": [
+{
+"Time": "3:00-3:55 PM",
+"Subject": "OC-I, TC(3)"
+}
+]
+}
+]
+}
+]
+}
+```<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Dr Nikhil Agrawal",
+"department": "Electronics and Communication Engineering",
+"position": "NA",
+"phone no": "9406769734",
+"email": "nagrawal@iiitn ac in",
+"joining date": "2020-12-31",
+"education": [
+{
+"degree year": "2010",
+"college name": "Patel College of Science and Technologgy, Bhopal",
+"university": "Rajiv Gandhi Proudyogiki Vishwavidyalaya Bhopal"
+},
+{
+"degree year": "2019",
+"college name": "PDPM Indian Institute of Information Technology Design &
+Manufacturing Jabalpur",
+"university": "PDPMIIITDMJ"
+},
+{
+"degree year": "2019",
+"college name": "PDPM Indian Institute of Information Technology Design &
+Manufacturing Jabalpur",
+"university": "PDPMIIITDMJ"
+}
+],"teaching experience": [
+{
+"institution": "IIIT Bhopal",
+"position": "NA",
+"start date": "2019-07-15",
+"end date": "2019-12-20"
+},
+{
+"institution": "NIT Raipur",
+"position": "NA",
+"start date": "2020-01-30",
+"end date": "2020-10-30"
+},
+{
+"institution": "NIT Raipur",
+"position": "NA",
+"start date": "2020-07-04",
+"end date": "2020-12-31"
+}
+],
+"industrial experience": [],
+"laboratory development": [],
+"areas of interest": [],
+"projects": [
+{
+"title": "Advanced Hilbert Transformer Design for High-Fidelity Real-TimeSignal Analysis",
+"funding agency": "DST-SERB",
+"role": "Principal investigators",
+"start date": "23-01-2024",
+"end date": "05-10-2024",
+"funding amount": "2959814"
+},
+{
+"title": "Development of a two-stage e-waste segregation system using
+transfer learning",
+"funding agency": "Minisrty of Mines",
+"role": "Principal investigators",
+"start date": "27-12-2023",
+"end date": "05-10-2024",
+"funding amount": "1183000"
+}
+],
+"publications": {
+"0": "High order stable infinite impulse response filter design using cuckoo
+search algorithm International Journal of Automation and Computing
+https://doi org/10 1Non SCI",
+"1": "Design of Digital IIR Filter with Low Quantization Error using Hybrid
+Optimization Technique Soft Computing doi org/10 1007/s005SCI",
+"2": "A New Method for Designing of Stable Digital IIR Filter Using Hybrid
+Method Circuits, System Signal Processing doi org/10 1007/s000SCI",
+"3": "A New Method for Designing of Stable Design of Infinite Impulse ResponseFilter using Fractional Derivative Constraints and Hybrid Particle Swarm Optimization
+Circuits, System Signal Processing https://doi org/10 1SCI",
+"4": "Weighted Least Square Design Technique for Hilbert Transformer using
+Fractional Derivative Signal Image and Video Processing https://doi org/10 1SCI",
+"5": "Design of digital IIR filter: A research survey Applied Acoustics
+https://doi org/10 1SCI",
+"6": "Hilbert Transform Design based on Fractional Derivatives and Swarm
+Optimization IEEE Transactions on Cybernetics 10 1109/TCYB 2018 28SCI",
+"7": "A New Design Approach for Nearly Linear Phase Stable IIR Filter using
+Fractional Derivative IEEE/CAA Journal of Automatica Sinica, 10 1109/JAS 2020 100SCI",
+"8": "A New Design Method for Stable IIR Filters With Nearly Linear-Phase
+Response Based on Fractional Derivative and Swarm Intelligence IEEE Transactions on
+Emerging Topics in Computational Intelligence 10 1109/TETCI 2017 2SCI",
+"9": "Design of Bandpass and Bandstop Infinite Impulse Response Filters using
+Fractional Derivative IEEE Transactions on Industrial Electronics
+10 1109/TIE 2018 283SCI",
+"10": "Phase Optimization based Design of Infinite Impulse Response Filter using
+Fractional Derivative IEEE International Conference on Digital Signal Processing (DSP)
+10 1109/ICDSP 2018 8Non SCI",
+"11": "Controlled ripple based design of digital IIR filter IEEE International
+Conference on Digital Signal Processing (DSP) 10 1109/ICDSP 2016 7Non SCI",
+"12": "Digital I
+
+-------------------------------------------------------------
+{
+"name": "Dr. Milind Penurkar",
+"department": "Computer Science Engeneering(CSE)",
+"position": "Assistant Professor",
+"phone_no": "9552559528",
+"email": "milindpenurkar@iiitn.ac.in",
+"joining_date": "Jul 2019",
+"education": [
+{
+"degree": "PhD",
+"degree_year": "2018",
+"college_name": "Visvesvaraya National Institute of Technology",
+"university": "Visvesvaraya National Institute of Technology"
+},
+{
+"degree": "MTech",
+"degree_year": "2007",
+"college_name": "COEP Technological University",
+"university": "COEP Technological University"
+},
+{
+"degree": "BE",
+"degree_year": "2001",
+"college_name": "Shri Guru Gobind Singhji Institute of Engineering and
+Technology, Vishnupuri, Nanded",
+"university": "Shri Guru Gobind Singhji Institute of Engineering andTechnology, Vishnupuri, Nanded"
+}
+],
+"teaching_experience": [
+{
+"institution": "Indian Institute of Information Technology Nagpur",
+"position": "Assistant Professor",
+"start_date": "Jul 2019",
+"end_date": "Present"
+},
+{
+"institution": "MAEER's MIT College of Engineering",
+"position": "Associate Professor",
+"start_date": "Dec 2012",
+"end_date": "Jul 2017"
+},
+{
+"institution": "MAEER's MIT College of Engineering",
+"position": "Assistant Professor",
+"start_date": "Aug 2007",
+"end_date": "Nov 2012"
+},
+{
+"institution": "MAEER's MIT College of Engineering",
+"position": "Lecturer",
+"start_date": "Dec 2003","end_date": "Jul 2007"
+}
+],
+"industrial_experience": [],
+"laboratory_development": [],
+"areas_of_interest": [],
+"projects": [],
+"publications": {
+"0": "Congestion avoidance and control in delay tolerant networks by P Patil, M
+Penurkar",
+"1": "Social characteristics-based routing algorithm for a mobile social network
+by MR Penurkar, UA Deshpande",
+"2": "A token based distributed group mutual exclusion algorithm with quorums
+for manet by P Talele, M Penurkar, S Bhutada, H Talele",
+"3": "Max-Util: A utility-based routing algorithm for a vehicular delay tolerant
+network using historical information by MR Penurkar, UA Deshpande",
+"4": "Region based routing in delay tolerant networks by T Bhotmange, M
+Penurkar",
+"5": "CONHIS: Contact history-based routing algorithm for a vehicular delay
+tolerant network by MR Penurkar, UA Deshpande",
+"6": "Priority-based scheduling policy for a hybrid routing algorithm in a
+Vehicular Delay Toleant Network by MR Penurkar, UA Deshpande",
+"7": "Scheduling and Dropping Policies in Delay Tolerant Network by RA More, MR
+Penurkar",
+"8": "Scheduling and Dropping Policies in Vehicular Delay Tolerant Network by MR
+Penurkar, AB Gajipara","9": "OPPRES: Opportunistic Routing algorithm for routing messages in emergency
+situations using vehicular delay tolerant network by MR Penurkar, UA Deshpande",
+"10": "Congestion avoidance and control in DTN by P Patil, M Penurkar",
+"11": "Product Sentiment Analysis Using Natural Language Understanding by P
+Ayare, R Sachdeo, M Penurkar",
+"12": "Social Based Routing in Delay Tolerant Network by P Chalikwar, MR
+Penurkar",
+"13": "OPDSM: A Combinatorial Object-Based and Page-Based DSM Model by MR
+Penurkar, RS Sugandhi",
+"14": "SOCIAL BASED ROUTING IN DELAY TOLERANT NETWORK by MR Penurkar",
+"15": "Congestion Control in DTN by P Patil, M Penurkar"
+},
+"supervision": [],
+"fellowships": []
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"officials": [
+{
+"title": "Director",
+"name": "Professor Prem Lal Patel",
+"position": "Director, IIIT Nagpur",
+"contact": {
+"email": "director@iiitn.ac.in",
+"office": "Director OfficeMain Building, IIIT Nagpur"
+},
+"bio": "Professor Prem Lal Patel took over as Director of IIIT, Nagpur on 1st
+October, 2024. He is a Professor (HAG) of Hydraulics and Water Resources at SVNIT,
+Surat, and has held roles such as Deputy Director, Dean, and Head of Civil Engineering.
+His research focuses on River Mechanics, Flood Control, and Climate Change Impact on
+Water Systems, with over 260 publications. He is a Fellow of various technical societies
+and has overseen numerous research and consultancy projects.",
+"phone": null
+},
+{
+"title": "Registrar",
+"name": "Shri Kailas N Dakhale",
+"position": "Registrar, IIIT Nagpur",
+"contact": {
+"phone": "9421995010",
+"email": "registrar@iiitn.ac.in",
+"office": "Indian Institute of Information Technology, Nagpur"},
+"bio": "With 30 years of experience, Shri Kailas N Dakhale has served in various
+roles at institutions like IIT Kanpur and VNIT Nagpur. His expertise spans
+administration, academic matters, hostel management, and industry liaison. He has served
+on various committees across institutes, contributing to the development and policy
+planning of higher educational institutions in India.",
+"phone": "9421995010"
+},
+{
+"title": "Associate Dean",
+"name": "Dr Tausif Diwan",
+"position": "Associate Dean, IIIT Nagpur",
+"contact": {
+"phone": "9890280388",
+"email": "tdiwan@iiitn.ac.in"
+},
+"bio": null,
+"phone": "9890280388"
+}
+],
+"departments": [
+{
+"department": "Department of Basic Science and Engineering",
+"head": {
+"name": "Dr Prasad V Joshi",
+"position": "Assistant Professor & HOD","phone": "9893195909",
+"email": "pjoshi@iiitn.ac.in"
+}
+},
+{
+"department": "Department of Computer Science and Engineering",
+"head": {
+"name": "Dr Nishat A Ansari",
+"position": "Assistant Professor & HOD",
+"phone": null,
+"email": "nishat.ansari@iiitn.ac.in"
+}
+},
+{
+"department": "Department of Electronics and Communication Engineering",
+"head": {
+"name": "Dr Harsh Goud",
+"position": "Assistant Professor & HOD",
+"phone": "9827554326",
+"email": "hgoud@iiitn.ac.in"
+}
+}
+],
+"hostel_wardens": [
+{
+"position": "Hostel Warden (Boys)","name": "Dr Harsh Goud",
+"role": "Assistant Professor",
+"phone": "9827554326",
+"email": "hgoud@iiitn.ac.in",
+"location": "Indian Institute of Information Technology, Nagpur"
+},
+{
+"position": "Hostel Warden (Girls)",
+"name": "Dr Shushmita Dadhaliya",
+"role": "Assistant Professor",
+"phone": "9082333050",
+"email": "sdandeliya@iiitn.ac.in",
+"location": "Indian Institute of Information Technology, Nagpur"
+}
+],
+"rules_and_regulations": {
+"anti_ragging": {
+"overview": "Ragging is strictly prohibited at the institute, and disciplinary
+action will be taken against violators.",
+"penalties": [
+"Suspension from attending classes and academic privileges",
+"Withholding/withdrawing scholarships and other benefits",
+"Debarring from representation in events and appearing for examinations",
+"Filing of an FIR and legal consequences"
+]
+},"institute_rules": {
+"overview": "The institute rules are established to maintain discipline and order
+among students, faculty, and staff.",
+"key_rules": [
+"Punctuality and regular attendance are mandatory",
+"Respect towards peers, faculty, and staff is expected at all times",
+"Strict adherence to academic honesty and integrity",
+"Use of institute resources responsibly and ethically"
+]
+},
+"hostel_rules": {
+"overview": "Hostel rules ensure a peaceful and secure environment for all
+residents.",
+"key_rules": [
+"All hostel residents must adhere to curfew timings",
+"Maintaining cleanliness and hygiene in shared spaces",
+"No unauthorized guests allowed in hostel rooms",
+"Consumption of alcohol and drugs is strictly prohibited"
+]
+},
+"directives_for_seniors": {
+"overview": "Senior students are expected to guide and assist junior
+
+-------------------------------------------------------------
+{
+"academic_fees_structure_2024_2025": {
+"annual_fees": {
+"tuition_fees": {
+"1st_year": 198000,
+"2nd_year": 198000,
+"3rd_year": 198000,
+"4th_year": 180000
+},
+"other_fees": {
+"development_fees": {
+"1st_year": 13500,
+"2nd_year": 13500,
+"3rd_year": 13500,
+"4th_year": 12000
+},
+"end_semester_examination_fees": {
+"1st_year": 2000,
+"2nd_year": 2000,
+"3rd_year": 2000,
+"4th_year": 2000
+},
+"registration_fees": {
+"1st_year": 1500,
+"2nd_year": 1500,
+"3rd_year": 1500,"4th_year": 1500
+},
+"library_fees": {
+"1st_year": 3000,
+"2nd_year": 3000,
+"3rd_year": 3000,
+"4th_year": 3000
+},
+"gym_cultural_activities_magazine_fees": {
+"1st_year": 2500,
+"2nd_year": 2500,
+"3rd_year": 2500,
+"4th_year": 2200
+},
+"sports_fees": {
+"1st_year": 2800,
+"2nd_year": 2800,
+"3rd_year": 2800,
+"4th_year": 2000
+},
+"internet_computer_maintenance_fees": {
+"1st_year": 3300,
+"2nd_year": 3300,
+"3rd_year": 3300,
+"4th_year": 3000
+},"training_placement_fees": {
+"1st_year": 900,
+"2nd_year": 900,
+"3rd_year": 900,
+"4th_year": 800
+},
+"industry_institute_interaction_fees": {
+"1st_year": 800,
+"2nd_year": 800,
+"3rd_year": 800,
+"4th_year": 1500
+},
+"group_insurance_premium": {
+"1st_year": 700,
+"2nd_year": 700,
+"3rd_year": 700,
+"4th_year": 700
+},
+"convocation_fees": {
+"1st_year": 0,
+"2nd_year": 0,
+"3rd_year": 0,
+"4th_year": 1000
+},
+"sub_total_other_fees": {
+"1st_year": 31000,"2nd_year": 31000,
+"3rd_year": 31000,
+"4th_year": 29700
+}
+},
+"sub_total_annual_fees": {
+"1st_year": 229000,
+"2nd_year": 229000,
+"3rd_year": 229000,
+"4th_year": 209700
+}
+},
+"one_time_fees": {
+"library_deposit_refundable": {
+"1st_year": 5000,
+"2nd_year": 0,
+"3rd_year": 0,
+"4th_year": 0
+},
+"caution_deposit_refundable": {
+"1st_year": 5000,
+"2nd_year": 0,
+"3rd_year": 0,
+"4th_year": 0
+},
+"identity_card_fee": {"1st_year": 200,
+"2nd_year": 0,
+"3rd_year": 0,
+"4th_year": 0
+},
+"medical_exam_fee": {
+"1st_year": 300,
+"2nd_year": 0,
+"3rd_year": 0,
+"4th_year": 0
+},
+"welfare_fund": {
+"1st_year": 2500,
+"2nd_year": 0,
+"3rd_year": 0,
+"4th_year": 0
+},
+"medical_aid_fund": {
+"1st_year": 5000,
+"2nd_year": 0,
+"3rd_year": 0,
+"4th_year": 0
+},
+"sub_total_one_time_fees": {
+"1st_year": 18000,
+"2nd_year": 0,"3rd_year": 0,
+"4th_year": 0
+}
+},
+"total_fees": {
+"1st_year": 247000,
+"2nd_year": 229000,
+"3rd_year": 229000,
+"4th_year": 209700
+},
+"semester_fees": {
+"odd_semester": {
+"1st_year": 123850,
+"2nd_year
+
+-------------------------------------------------------------
+{
+"Lab Name": "Embedded Lab",
+"Schedule": {
+"Monday": {
+"10:00-12:00": "D&M (Batch-1)",
+"14:00-16:00": "M&l (ECE-II-B2)",
+"16:00-18:00": "M&l (CSE-II-C1)"
+},
+"Tuesday": {
+"10:00-12:00": "M&l (ECE-II-A2)"
+},
+"Wednesday": {
+"10:00-12:00": "M&l (ECE-II-A1)",
+"14:00-16:00": "M&l (ECE-II-B1)"
+},
+"Thursday": {
+"10:00-12:00": "NT (ECE-II-A2)",
+"14:00-16:00": "M&l (CSE-II-A1)",
+"16:00-18:00": "M&l (CSE-II-C2)"
+},
+"Friday": {
+"08:00-10:00": "M&l (CSE-II-B2)",
+"10:00-12:00": "M&l (CSE-II-B1)",
+"14:00-16:00": "M&l (CSE-II-A2)"
+}
+},"additional_info": "NA"
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Dr Kamal Jeet",
+"department": "Basic Science",
+"position": "Assistant Professor (Grade-II)",
+"phone_no": "NA",
+"email": "NA",
+"joining_date": "2022",
+"education": [
+{
+"degree": "PhD",
+"degree_year": "2016",
+"college_name": "Indian Institute of Technology Kanpur",
+"university": "NA"
+},
+{
+"degree": "MSc",
+"degree_year": "2008",
+"college_name": "Guru Nanak Dev University",
+"university": "NA"
+},
+{
+"degree": "BSc",
+"degree_year": "2006",
+"college_name": "Guru Nanak Dev University",
+"university": "NA"
+}],
+"teaching_experience": [
+{
+"institution": "Indian Institute of Information Technology Nagpur",
+"position": "Assistant Professor (Grade-II)",
+"start_date": "2022",
+"end_date": "Present"
+},
+{
+"institution": "Indian Institute of Technology Roorkee",
+"position": "Post-Doctoral Fellow",
+"start_date": "2020",
+"end_date": "2022"
+},
+{
+"institution": "National Institute of Technology Hamirpur",
+"position": "Research Associate",
+"start_date": "2019",
+"end_date": "2020"
+},
+{
+"institution": "Indian Institute of Technology Roorkee",
+"position": "Post-Doctoral Fellow",
+"start_date": "2017",
+"end_date": "2019"
+}],
+"industrial_experience": [],
+"laboratory_development": [],
+"areas_of_interest": [],
+"projects": [
+{
+"title": "Approximate Controllability of Delay Evolution Equations",
+"funding_agency": "NPDF, SERB-DST",
+"role": "PI",
+"start_date": "2017",
+"end_date": "2019",
+"funding_amount": "1920000"
+}
+],
+"publications": {
+"0": "Approximate controllability of neutral Hilfer fractional differential
+equations of Sobolev-type in a Hilbert Space",
+"1": "Mathematical Control and Related Fields, Volume 14, Year 2024, Pages
+493-512",
+"2": "DOI:doi.org/10.3934/mcrf.2023013",
+"3": "Results on the existence and approximate controllability of neutral-type
+delay integro-differential system with noninstantaneous impulse",
+"4": "Mathematical Methods in the Applied Sciences, Volume 46, Year 2023, Pages
+16992-17009",
+"5": "Controllability of Hilfer fractional integro-differential equations of
+Sobolev-type with a nonlocal condition in a Banach space","6": "Evolution Equations and Control Theory, Volume 11, Year 2022, Pages
+605-619",
+"7": "Monotone Iterative Technique for Nonlocal Impulsive Finite Delay
+Differential Equations of Fractional Order",
+"8": "Differential Equations and Dynamical Systems, Volume 30, Year 2022, Pages
+801-816",
+"9": "Approximate controllability of nonlocal and impulsive integro-differential
+equations of finite delay",
+"10": "SIAM Proceedings of the Conference on Control and its Applications
+(CT21), Volume 2021, Year 2021, Pages 25-31",
+"11": "Approximate controllability of nonlocal impulsive neutral
+integro-differential equations with finite delay",
+"12": "Mathematical Methods in the Applied Sciences, Volume 44, Year 2021, Pages
+14937-14956",
+"13": "Approximate controllability for finite delay nonlocal neutral
+integro-differential equations using resolvent operator theory",
+"14": "Proceedings of the Indian Academy of Sciences: Mathematical Sciences,
+Volume 130, Year 2020",
+"15": "Approximate controllability of nonlocal and impulsive neutral
+integro-differential equations using the resolvent operator theory and an approximating
+technique",
+"16": "Applied Mathematics and Computation, Volume 364, Year 2020",
+"17": "Approximate Controllability of Finite Delay Fractional Functional
+Integro-Differential Equations with Nonlocal Condition",
+"18": "Differential Equations and Dynamical Systems, Volume 27, Year 2019, Pages
+423-437","19": "Extremal mild solutions for nonlocal semilinear differential equations
+with finite delay in an ordered Banach space",
+"20": "Nonlinear Dynamics and Systems Theory, Volume 16, Year 2016, Pages
+300-311
+
+-------------------------------------------------------------
+{
+"committees": [
+{
+"name": "Anti-Ragging Committee",
+"description": "The Anti-Ragging Committee at IIIT Nagpur is responsible for
+implementing preventive and remedial measures against ragging.",
+"members": [
+{
+"name": "Shri Kailas N Dakhale",
+"designation": "Chairman",
+"role": "Registrar"
+},
+{
+"name": "Dr Prasad Joshi",
+"designation": "Member",
+"role": "Assistant Professor & HoD, BS"
+},
+{
+"name": "Dr Tausif Diwan",
+"designation": "Member",
+"role": "Associate Dean"
+},
+{
+"name": "Dr Nishat Afshan Ansari",
+"designation": "Member",
+"role": "Assistant Professor & HoD, CSE"},
+{
+"name": "Dr Harsh Goud",
+"designation": "Member",
+"role": "Assistant Professor & HoD, ECE"
+},
+{
+"name": "Mr Udbhav Mittal",
+"designation": "Member",
+"role": "Student Representative, CSE"
+},
+{
+"name": "Mr Swastik Katiyar",
+"designation": "Member",
+"role": "Student Representative, ECE"
+}
+]
+},
+{
+"name": "Institute Level Anti-Ragging Squad",
+"description": "The squad meets to review and take action on anti-ragging measures
+at the institute level.",
+"members": [
+{
+"name": "Dr Prasad Joshi",
+"designation": "Chairman","department": "BS"
+},
+{
+"name": "Dr Girish Ghivela",
+"designation": "Member",
+"department": "ECE"
+},
+{
+"name": "Dr Shankar Bhattacharjee",
+"designation": "Member",
+"department": "ECE"
+},
+{
+"name": "Dr Shishupal Kumar",
+"designation": "Member",
+"department": "CSE"
+},
+{
+"name": "Dr Snehal Shinde",
+"designation": "Member",
+"department": "CSE"
+},
+{
+"name": "Shri Shashikant Bhongale",
+"designation": "Member",
+"department": "Admin"},
+{
+"name": "Mr Sujay Kamble",
+"designation": "Member",
+"role": "Student Representative"
+},
+{
+"name": "Ms Naina Rai",
+"designation": "Member",
+"role": "Student Representative"
+}
+]
+},
+{
+"name": "Equal Opportunity Cell",
+"description": "The Equal Opportunity Cell is responsible for addressing the needs
+of differently-abled persons.",
+"members": [
+{
+"name": "Dr Anil Kumar Kushwah",
+"designation": "Chairman",
+"email": "akushwah@iiitn.ac.in",
+"phone": "9893739034"
+},
+{
+"name": "Dr Kamaljeet","designation": "Member",
+"email": "kamaljeet@iiitn.ac.in",
+"phone": "8127583552"
+},
+{
+"name": "Mr Ashok Dongare",
+"designation": "Member",
+"email": "jecivil@iiitn.ac.in",
+"phone": "9689009639"
+},
+{
+"name": "Mr Niloba Mahajan",
+"designation": "Member",
+"email": "janamahajan@iiitn.ac.in",
+"phone": "8999296062"
+},
+{
+"name": "Mr Nenavath Chandra Shekhar",
+"designation": "Member",
+"role": "Student",
+"email": "bt22csh040@iiitn.ac.in"
+},
+{
+"name": "Dr Jigar Shah",
+"designation": "Member",
+"role": "Parent"}
+]
+},
+{
+"name": "Internal Complaint Committee",
+"description": "The Internal Complaint Committee is set up under the Sexual
+Harassment of Women at Workplace (Prevention, Prohibition & Redressal) Act, 2013.",
+"link":
+"https://iiitn.ac.in/18092024/Policy%20of%20Prevention%20of%20Sexual%20Harassment%20of%2
+0Women%20at%20Workplace.pdf"
+}
+]
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"academic_calendar": {
+"odd_semester": {
+"commencement_of_classes": "22nd July 2024",
+"add_drop_deadline_for_elective_courses": "5th August 2024",
+"sessional_examinations": [
+{
+"sessional": 1,
+"dates": "27th to 30th August 2024"
+},
+{
+"sessional": 2,
+"dates": "9th to 12th October 2024"
+}
+],
+"display_of_sessional_1_marks_and_attendance": "6th September 2024",
+"final_year_projects_and_internship_presentations_1": "23rd to 24th September
+2024",
+"last_date_for_display_of_sessional_2_marks_and_attendance": "18th October 2024",
+"last_date_of_teaching_display_of_attendance_and_internal_marks": "15th November
+2024",
+"end_semester_exam": {
+"dates": "18th November to 3rd December 2024",
+"display_of_results": "5th to 6th December 2024"
+},
+"final_year_projects_and_internship_presentations_2": "5th to 6th December 2024","submission_of_marks_and_grades_to_iec": "12th December 2024",
+"registration_for_next_semester": "16th to 31st December 2024",
+"re_examination": "17th to 18th December 2024",
+"last_date_for_display_of_re_exam_marks": "18th December 2024",
+"submission_of_final_grades_of_re_exam_to_coe": "18th December 2024"
+},
+"even_semester": {
+"commencement_of_classes": "1st January 2025",
+"add_drop_deadline_for_elective_courses": "17th January 2025",
+"sessional_examinations": [
+{
+"sessional": 1,
+"dates": "6th to 11th February 2025"
+},
+{
+"sessional": 2,
+"dates": "25th to 28th March 2025"
+}
+],
+"display_of_sessional_1_marks_and_attendance": "21st February 2025",
+"final_year_projects_and_internship_presentations_1": "10th to 11th March 2025",
+"last_date_for_display_of_sessional_2_marks_and_attendance": "4th April 2025",
+"last_date_of_teaching_display_of_attendance_and_internal_marks": "29th April
+2025",
+"end_semester_exam": {
+"dates": "5th to 16th May 2025","display_of_results": "23rd May 2025"
+},
+"final_year_projects_and_internship_presentations_2": "20th to 21st May 2025",
+"submission_of_marks_and_grades_to_iec": "26th May 2025",
+"registration_for_next_semester": "27th May to 18th July 2025",
+"re_examination": "27th to 30th May 2025",
+"last_date_for_display_of_re_exam_marks": "2nd June 2025",
+"submission_of_final_grades_of_re_exam_to_coe": "2nd June 2025",
+"summer_term": "4th June 2025 onwards",
+"next_session_start": "14th July 2025"
+},
+"holidays": [
+{
+"name": "Muharram",
+"date": "17th July 2024"
+},
+{
+"name": "Independence Day",
+"date": "15th August 2024"
+},
+{
+"name": "Janmashtami",
+"date": "26th August 2024"
+},
+{
+"name": "Eid-E-Milad","date": "16th September 2024"
+},
+{
+"name": "Gandhi Jayanti",
+"date": "2nd October 2024"
+},
+{
+"name": "Dusshera",
+"date": "12th October 2024"
+},
+{
+"name": "Diwali",
+"date": "31st October 2024"
+},
+{
+"name": "Gurunanak Jayanti",
+"date": "15th November 2024"
+},
+{
+"name": "Christmas Day",
+"date": "25th December 2024"
+},
+{
+"name": "Republic Day",
+"date": "26th January 2025"
+},{
+"name": "Holika Dahan",
+"date": "13th March 2025"
+},
+{
+"name": "Eid-Ul-Fitr",
+"date": "30th March 2025"
+},
+{
+"name": "Ram Navami",
+"date": "6th April 2025"
+},
+{
+"name": "
+
+-------------------------------------------------------------
+{
+"schedule": {
+"CR-001": {
+"ECE-IoT-I": {
+"Monday": [
+{
+"time": "1:00-1:55 PM",
+"subject": "EDA",
+"section": "IoT-I"
+},
+{
+"time": "2:00-2:55 PM",
+"subject": "CP",
+"section": "IoT-I"
+}
+],
+"Tuesday": [
+{
+"time": "1:00-1:55 PM",
+"subject": "IIoT",
+"section": "IoT-I"
+},
+{
+"time": "2:00-2:55 PM",
+"subject": "EES",
+"section": "IoT-I"},
+{
+"time": "3:00-3:55 PM",
+"subject": "AME",
+"section": "IoT-I"
+},
+{
+"time": "5:00-5:55 PM",
+"subject": "EVS",
+"section": "IoT-I"
+}
+],
+"Wednesday": [
+{
+"time": "1:00-1:55 PM",
+"subject": "AME",
+"section": "IoT-I"
+},
+{
+"time": "2:00-2:55 PM",
+"subject": "CP",
+"section": "IoT-I"
+},
+{
+"time": "3:00-3:55 PM",
+"subject": "Tute-AME","section": "IoT-I"
+},
+{
+"time": "4:00-4:55 PM",
+"subject": "IIoT",
+"section": "IoT-I"
+}
+],
+"Thursday": [
+{
+"time": "8:00-8:55 AM",
+"subject": "EDA",
+"section": "IoT-I"
+},
+{
+"time": "9:00-9:55 AM",
+"subject": "CP",
+"section": "IoT-I"
+},
+{
+"time": "10:00-10:55 AM",
+"subject": "AME",
+"section": "IoT-I"
+},
+{
+"time": "11:00-11:55 AM","subject": "IIoT",
+"section": "IoT-I"
+},
+{
+"time": "12:00-12:55 PM",
+"subject": "EES",
+"section": "IoT-I"
+}
+]
+}
+}
+}
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Professor Dr Prem Lal Patel",
+"position": "Director",
+"institution": "IIIT Nagpur",
+"email": "director@iiitn.ac.in",
+"address": "Director Office, Main Building, IIIT Nagpur",
+"phone": "NA",
+"research_areas": [
+"River Mechanics and Flood Control",
+"Hydrological Modelling and optimization of water systems",
+"Impact of climate change on water resources system"
+],
+"degrees": [
+{
+"degree": "Bachelors in Civil Engineering",
+"institution": "Government Engineering College, Rewa, Madhya Pradesh, India"
+},
+{
+"degree": "Master in Civil Engineering",
+"institution": "Indian Institute of Technology Roorkee, India"
+},
+{
+"degree": "Doctoral in Civil Engineering",
+"institution": "Indian Institute of Technology Roorkee, India"
+}
+],"memberships": [
+"Indian Society for Hydraulics",
+"Indian Water Resources Society",
+"Institution of Civil Engineers, India"
+],
+"projects": [
+{
+"type": "Research",
+"count": "more than six"
+},
+{
+"type": "Consultancy",
+"count": "more than 25"
+}
+],
+"publications": [
+{
+"type": "Journal Papers",
+"count": 260
+},
+{
+"type": "Conference Papers",
+"count": "NA"
+}
+],
+"supervised_students": [{
+"level": "Doctoral",
+"count": 14
+},
+{
+"level": "Master",
+"count": 49
+}
+],
+"achievements": [
+"Instrumental in setting up a Centre of Excellence (CoE) on Water Resources & Flood
+Management in the SVNIT Surat through research grant from World Bank sponsored
+TEQIP-II."
+],
+"awards": "NA",
+"additional_info": "Took over the additional charge as Director of IIIT, Nagpur on 1st
+October, 2024.\nHe is Professor (HAG) of Hydraulics and Water Resources in Department of
+Civil Engineering, Sardar Vallabhbhai National Institute of Technology (SVNIT),
+Surat.\nHe served as Deputy Director of the Institute (SVNIT) during Sept 17, 2019 to
+Sept. 16, 2022.\nHe worked as Dean (PG), Dean (R&C), Dean (Academic) and the Head, Dept.
+of Civil Engineering at SVNIT Surat.\nPrior to joining SVNIT in 2007, he served as
+Associate Professor, Civil Engineering Department in Delhi College of Engineering (now
+DTU) for eight years.\nPrior to working at DCE, he served as Assistant Executive
+Engineer (Civil) in Border Roads Organization (BRO), Ministry of Road Transport and
+Highways of India, Govt. of India from 1995-1999."
+}<|eot_id|>
+
+-------------------------------------------------------------
+{
+"name": "Dr Jagdish Chakole",
+"department": "Computer Science and Engineering",
+"position": "Assistant Professor",
+"phone_no": "9604269053",
+"email": "jchakole@iiitn.ac.in",
+"joining_date": "2022-10-19",
+"education": [
+{
+"degree_year": "2008",
+"college_name": "NA",
+"university": "RTM Nagpur University"
+},
+{
+"degree_year": "2013",
+"college_name": "NA",
+"university": "RTM Nagpur University"
+},
+{
+"degree_year": "2022",
+"college_name": "NA",
+"university": "Visvesvaraya National Institute of Technology, Nagpur"
+}
+],
+"teaching_experience": [
+{"institution": "Indian Institute of Information Technology, Nagpur",
+"position": "Assistant Professor",
+"start_date": "2022-10-20",
+"end_date": "2024-10-10"
+},
+{
+"institution": "Symbiosis Institute of Technology",
+"position": "Assistant Professor",
+"start_date": "2022-08-03",
+"end_date": "2022-10-19"
+}
+],
+"industrial_experience": [],
+"laboratory_development": [],
+"areas_of_interest": [
+"Machine Learning",
+"Deep Learning",
+"Computational Finance"
+],
+"projects": [],
+"publications": [],
+"supervision": {
+"pg_dissertation": "NA",
+"ug_dissertation": "NA",
+"phd_dissertation": "NA",
+"mtech_dissertation": "NA"},
+"fellowships": [
+{
+"organization": "ISTE-Indian Society for Technical Education",
+"membership_id": "134300",
+"type": "Life time membership",
+"year": "2022"
+}
+]
+}<|eot_id|>
+-------------------------------------------------------------
